@@ -1,0 +1,1971 @@
+C:\Users\pochu\Desktop\ty\主程式\NEW\NEWERPS\NEWERPS\bin\Debug\NEWERPS.exe
+C:\Users\pochu\Desktop\ty\主程式\NEW\NEWERPS\NEWERPS\bin\Debug\NEWERPS.pdb
+C:\Users\pochu\Desktop\ty\主程式\NEW\NEWERPS\NEWERPS\obj\Debug\NEWERPS.csprojAssemblyReference.cache
+C:\Users\pochu\Desktop\ty\主程式\NEW\NEWERPS\NEWERPS\obj\Debug\NEWERPS.Form1.resources
+C:\Users\pochu\Desktop\ty\主程式\NEW\NEWERPS\NEWERPS\obj\Debug\NEWERPS.OBUData.resources
+C:\Users\pochu\Desktop\ty\主程式\NEW\NEWERPS\NEWERPS\obj\Debug\NEWERPS.Properties.Resources.resources
+C:\Users\pochu\Desktop\ty\主程式\NEW\NEWERPS\NEWERPS\obj\Debug\NEWERPS.csproj.GenerateResource.cache
+C:\Users\pochu\Desktop\ty\主程式\NEW\NEWERPS\NEWERPS\obj\Debug\NEWERPS.csproj.CoreCompileInputs.cache
+C:\Users\pochu\Desktop\ty\主程式\NEW\NEWERPS\NEWERPS\obj\Debug\NEWERPS.exe
+C:\Users\pochu\Desktop\ty\主程式\NEW\NEWERPS\NEWERPS\obj\Debug\NEWERPS.pdb
+C:\Users\pochu\Desktop\ty\主程式\NEW\NEWERPS\NEWERPS\obj\Debug\NEWERPS.OBUSelect.resources
+C:\Users\pochu\Desktop\ty\主程式\NEW\NEWERPS\NEWERPS\obj\Debug\NEWERPS.VendorQuery.resources
+C:\Users\pochu\Desktop\ty\主程式\NEW\NEWERPS\NEWERPS\obj\Debug\NEWERPS.FactoryData2.resources
+C:\Users\pochu\Desktop\ty\主程式\NEW\NEWERPS\NEWERPS\obj\Debug\NEWERPS.FactoryQuery.resources
+C:\Users\pochu\Desktop\ty\主程式\NEW\NEWERPS\NEWERPS\obj\Debug\NEWERPS.VendorData.resources
+C:\Users\pochu\Desktop\ty\主程式\NEW\NEWERPS\NEWERPS\obj\Debug\NEWERPS.MaterialProperty.resources
+C:\Users\pochu\Desktop\ty\主程式\NEW\NEWERPS\NEWERPS\obj\Debug\NEWERPS.Property.resources
+C:\Users\pochu\Desktop\ty\主程式\NEW\NEWERPS\NEWERPS\obj\Debug\NEWERPS.InsertMP.resources
+C:\Users\pochu\Desktop\ty\主程式\1101\NEWERPS\NEWERPS\obj\Debug\NEWERPS.csprojAssemblyReference.cache
+C:\Users\pochu\Desktop\ty\主程式\1101\NEWERPS\NEWERPS\obj\Debug\NEWERPS.FactoryData2.resources
+C:\Users\pochu\Desktop\ty\主程式\1101\NEWERPS\NEWERPS\obj\Debug\NEWERPS.FactoryQuery.resources
+C:\Users\pochu\Desktop\ty\主程式\1101\NEWERPS\NEWERPS\obj\Debug\NEWERPS.InsertMP.resources
+C:\Users\pochu\Desktop\ty\主程式\1101\NEWERPS\NEWERPS\obj\Debug\NEWERPS.MaterialProperty.resources
+C:\Users\pochu\Desktop\ty\主程式\1101\NEWERPS\NEWERPS\obj\Debug\NEWERPS.OBUSelect.resources
+C:\Users\pochu\Desktop\ty\主程式\1101\NEWERPS\NEWERPS\obj\Debug\NEWERPS.Properties.Resources.resources
+C:\Users\pochu\Desktop\ty\主程式\1101\NEWERPS\NEWERPS\obj\Debug\NEWERPS.Property.resources
+C:\Users\pochu\Desktop\ty\主程式\1101\NEWERPS\NEWERPS\obj\Debug\NEWERPS.VendorData.resources
+C:\Users\pochu\Desktop\ty\主程式\1101\NEWERPS\NEWERPS\obj\Debug\NEWERPS.VendorQuery.resources
+C:\Users\pochu\Desktop\ty\主程式\1101\NEWERPS\NEWERPS\obj\Debug\NEWERPS.csproj.GenerateResource.cache
+C:\Users\pochu\Desktop\ty\主程式\1101\NEWERPS\NEWERPS\obj\Debug\NEWERPS.csproj.CoreCompileInputs.cache
+C:\Users\pochu\Desktop\ty\主程式\1101\NEWERPS\NEWERPS\obj\Debug\NEWERPS.exe
+C:\Users\pochu\Desktop\ty\主程式\1101\NEWERPS\NEWERPS\obj\Debug\NEWERPS.pdb
+C:\Users\pochu\Desktop\ty\主程式\1101\NEWERPS\NEWERPS\bin\Debug\NEWERPS.exe.config
+C:\Users\pochu\Desktop\ty\主程式\1101\NEWERPS\NEWERPS\bin\Debug\NEWERPS.exe
+C:\Users\pochu\Desktop\ty\主程式\1101\NEWERPS\NEWERPS\bin\Debug\NEWERPS.pdb
+C:\Users\pochu\Desktop\ty\主程式\1101\NEWERPS\NEWERPS\obj\Debug\NEWERPS.FactoryRecover.resources
+C:\Users\pochu\Desktop\ty\主程式\1101\NEWERPS\NEWERPS\obj\Debug\NEWERPS.NewClassFeature.resources
+C:\Users\pochu\Desktop\ty\主程式\1101\NEWERPS\NEWERPS\obj\Debug\NEWERPS.ERPLogin.resources
+C:\Users\pochu\Desktop\ty\主程式\1101\NEWERPS\NEWERPS\obj\Debug\NEWERPS.Mainpage.resources
+C:\Users\pochu\Desktop\ty\主程式\1101\NEWERPS\NEWERPS\obj\Debug\NEWERPS.Mainpage2.resources
+C:\Users\pochu\Desktop\ty\主程式\1101\NEWERPS\NEWERPS\obj\Debug\NEWERPS.LanguageModify.resources
+C:\Users\pochu\Desktop\ty\主程式\1101\NEWERPS\NEWERPS\obj\Debug\NEWERPS.LanguageNew.resources
+C:\Users\pochu\Desktop\ty\主程式\1101\NEWERPS\NEWERPS\obj\Debug\NEWERPS.LanguageQuery.resources
+C:\Users\pochu\Desktop\ty\主程式\1101\1107\NEWERPS\NEWERPS\obj\Debug\NEWERPS.csprojAssemblyReference.cache
+C:\Users\pochu\Desktop\ty\主程式\1101\1107\NEWERPS\NEWERPS\obj\Debug\NEWERPS.BankInformation.resources
+C:\Users\pochu\Desktop\ty\主程式\1101\1107\NEWERPS\NEWERPS\obj\Debug\NEWERPS.ColorInformation.resources
+C:\Users\pochu\Desktop\ty\主程式\1101\1107\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CompanyInformation.resources
+C:\Users\pochu\Desktop\ty\主程式\1101\1107\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CompanyInformationDetail.resources
+C:\Users\pochu\Desktop\ty\主程式\1101\1107\NEWERPS\NEWERPS\obj\Debug\NEWERPS.FactoryData2.resources
+C:\Users\pochu\Desktop\ty\主程式\1101\1107\NEWERPS\NEWERPS\obj\Debug\NEWERPS.FactoryQuery.resources
+C:\Users\pochu\Desktop\ty\主程式\1101\1107\NEWERPS\NEWERPS\obj\Debug\NEWERPS.FactoryRecover.resources
+C:\Users\pochu\Desktop\ty\主程式\1101\1107\NEWERPS\NEWERPS\obj\Debug\NEWERPS.ERPLogin.resources
+C:\Users\pochu\Desktop\ty\主程式\1101\1107\NEWERPS\NEWERPS\obj\Debug\NEWERPS.InsertMP.resources
+C:\Users\pochu\Desktop\ty\主程式\1101\1107\NEWERPS\NEWERPS\obj\Debug\NEWERPS.LanguageModify.resources
+C:\Users\pochu\Desktop\ty\主程式\1101\1107\NEWERPS\NEWERPS\obj\Debug\NEWERPS.LanguageNew.resources
+C:\Users\pochu\Desktop\ty\主程式\1101\1107\NEWERPS\NEWERPS\obj\Debug\NEWERPS.LanguageQuery.resources
+C:\Users\pochu\Desktop\ty\主程式\1101\1107\NEWERPS\NEWERPS\obj\Debug\NEWERPS.Mainpage.resources
+C:\Users\pochu\Desktop\ty\主程式\1101\1107\NEWERPS\NEWERPS\obj\Debug\NEWERPS.Mainpage2.resources
+C:\Users\pochu\Desktop\ty\主程式\1101\1107\NEWERPS\NEWERPS\obj\Debug\NEWERPS.MaterialClassSet.resources
+C:\Users\pochu\Desktop\ty\主程式\1101\1107\NEWERPS\NEWERPS\obj\Debug\NEWERPS.MaterialClassSetDetail.resources
+C:\Users\pochu\Desktop\ty\主程式\1101\1107\NEWERPS\NEWERPS\obj\Debug\NEWERPS.MaterialMainInformation.resources
+C:\Users\pochu\Desktop\ty\主程式\1101\1107\NEWERPS\NEWERPS\obj\Debug\NEWERPS.MaterialProperty.resources
+C:\Users\pochu\Desktop\ty\主程式\1101\1107\NEWERPS\NEWERPS\obj\Debug\NEWERPS.NewClassFeature.resources
+C:\Users\pochu\Desktop\ty\主程式\1101\1107\NEWERPS\NEWERPS\obj\Debug\NEWERPS.OBUSelect.resources
+C:\Users\pochu\Desktop\ty\主程式\1101\1107\NEWERPS\NEWERPS\obj\Debug\NEWERPS.ProduceMethod.resources
+C:\Users\pochu\Desktop\ty\主程式\1101\1107\NEWERPS\NEWERPS\obj\Debug\NEWERPS.Properties.Resources.resources
+C:\Users\pochu\Desktop\ty\主程式\1101\1107\NEWERPS\NEWERPS\obj\Debug\NEWERPS.Property.resources
+C:\Users\pochu\Desktop\ty\主程式\1101\1107\NEWERPS\NEWERPS\obj\Debug\NEWERPS.UnitInformation.resources
+C:\Users\pochu\Desktop\ty\主程式\1101\1107\NEWERPS\NEWERPS\obj\Debug\NEWERPS.VendorData.resources
+C:\Users\pochu\Desktop\ty\主程式\1101\1107\NEWERPS\NEWERPS\obj\Debug\NEWERPS.VendorQuery.resources
+C:\Users\pochu\Desktop\ty\主程式\1101\1107\NEWERPS\NEWERPS\obj\Debug\NEWERPS.csproj.GenerateResource.cache
+C:\Users\pochu\Desktop\ty\主程式\1101\1107\NEWERPS\NEWERPS\obj\Debug\NEWERPS.csproj.CoreCompileInputs.cache
+C:\Users\pochu\Desktop\ty\主程式\1101\1107\NEWERPS\NEWERPS\obj\Debug\NEWERPS.exe
+C:\Users\pochu\Desktop\ty\主程式\1101\1107\NEWERPS\NEWERPS\obj\Debug\NEWERPS.pdb
+C:\Users\pochu\Desktop\ty\主程式\1101\1107\NEWERPS\NEWERPS\bin\Debug\NEWERPS.exe.config
+C:\Users\pochu\Desktop\ty\主程式\1101\1107\NEWERPS\NEWERPS\bin\Debug\NEWERPS.exe
+C:\Users\pochu\Desktop\ty\主程式\1101\1107\NEWERPS\NEWERPS\bin\Debug\NEWERPS.pdb
+C:\Users\pochu\Desktop\1107\NEWERPS\NEWERPS\bin\Debug\NEWERPS.exe.config
+C:\Users\pochu\Desktop\1107\NEWERPS\NEWERPS\bin\Debug\NEWERPS.exe
+C:\Users\pochu\Desktop\1107\NEWERPS\NEWERPS\bin\Debug\NEWERPS.pdb
+C:\Users\pochu\Desktop\1107\NEWERPS\NEWERPS\obj\Debug\NEWERPS.csprojAssemblyReference.cache
+C:\Users\pochu\Desktop\1107\NEWERPS\NEWERPS\obj\Debug\NEWERPS.BankInformation.resources
+C:\Users\pochu\Desktop\1107\NEWERPS\NEWERPS\obj\Debug\NEWERPS.ColorInformation.resources
+C:\Users\pochu\Desktop\1107\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CompanyInformation.resources
+C:\Users\pochu\Desktop\1107\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CompanyInformationDetail.resources
+C:\Users\pochu\Desktop\1107\NEWERPS\NEWERPS\obj\Debug\NEWERPS.FactoryData2.resources
+C:\Users\pochu\Desktop\1107\NEWERPS\NEWERPS\obj\Debug\NEWERPS.FactoryQuery.resources
+C:\Users\pochu\Desktop\1107\NEWERPS\NEWERPS\obj\Debug\NEWERPS.FactoryRecover.resources
+C:\Users\pochu\Desktop\1107\NEWERPS\NEWERPS\obj\Debug\NEWERPS.ERPLogin.resources
+C:\Users\pochu\Desktop\1107\NEWERPS\NEWERPS\obj\Debug\NEWERPS.InsertMP.resources
+C:\Users\pochu\Desktop\1107\NEWERPS\NEWERPS\obj\Debug\NEWERPS.LanguageModify.resources
+C:\Users\pochu\Desktop\1107\NEWERPS\NEWERPS\obj\Debug\NEWERPS.LanguageNew.resources
+C:\Users\pochu\Desktop\1107\NEWERPS\NEWERPS\obj\Debug\NEWERPS.LanguageQuery.resources
+C:\Users\pochu\Desktop\1107\NEWERPS\NEWERPS\obj\Debug\NEWERPS.Mainpage.resources
+C:\Users\pochu\Desktop\1107\NEWERPS\NEWERPS\obj\Debug\NEWERPS.Mainpage2.resources
+C:\Users\pochu\Desktop\1107\NEWERPS\NEWERPS\obj\Debug\NEWERPS.MaterialClassSet.resources
+C:\Users\pochu\Desktop\1107\NEWERPS\NEWERPS\obj\Debug\NEWERPS.MaterialClassSetDetail.resources
+C:\Users\pochu\Desktop\1107\NEWERPS\NEWERPS\obj\Debug\NEWERPS.MaterialMainInformation.resources
+C:\Users\pochu\Desktop\1107\NEWERPS\NEWERPS\obj\Debug\NEWERPS.MaterialProperty.resources
+C:\Users\pochu\Desktop\1107\NEWERPS\NEWERPS\obj\Debug\NEWERPS.NewClassFeature.resources
+C:\Users\pochu\Desktop\1107\NEWERPS\NEWERPS\obj\Debug\NEWERPS.OBUSelect.resources
+C:\Users\pochu\Desktop\1107\NEWERPS\NEWERPS\obj\Debug\NEWERPS.ProduceMethod.resources
+C:\Users\pochu\Desktop\1107\NEWERPS\NEWERPS\obj\Debug\NEWERPS.Properties.Resources.resources
+C:\Users\pochu\Desktop\1107\NEWERPS\NEWERPS\obj\Debug\NEWERPS.Property.resources
+C:\Users\pochu\Desktop\1107\NEWERPS\NEWERPS\obj\Debug\NEWERPS.UnitInformation.resources
+C:\Users\pochu\Desktop\1107\NEWERPS\NEWERPS\obj\Debug\NEWERPS.VendorData.resources
+C:\Users\pochu\Desktop\1107\NEWERPS\NEWERPS\obj\Debug\NEWERPS.VendorQuery.resources
+C:\Users\pochu\Desktop\1107\NEWERPS\NEWERPS\obj\Debug\NEWERPS.csproj.GenerateResource.cache
+C:\Users\pochu\Desktop\1107\NEWERPS\NEWERPS\obj\Debug\NEWERPS.exe
+C:\Users\pochu\Desktop\1107\NEWERPS\NEWERPS\obj\Debug\NEWERPS.pdb
+C:\Users\pochu\Desktop\1107\NEWERPS\NEWERPS\obj\Debug\NEWERPS.NewFeature.resources
+C:\Users\pochu\Desktop\1118\NEWERPS\NEWERPS\obj\Debug\NEWERPS.csprojAssemblyReference.cache
+C:\Users\pochu\Desktop\1118\NEWERPS\NEWERPS\obj\Debug\NEWERPS.BankInformation.resources
+C:\Users\pochu\Desktop\1118\NEWERPS\NEWERPS\obj\Debug\NEWERPS.ColorInformation.resources
+C:\Users\pochu\Desktop\1118\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CompanyInformation.resources
+C:\Users\pochu\Desktop\1118\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CompanyInformationDetail.resources
+C:\Users\pochu\Desktop\1118\NEWERPS\NEWERPS\obj\Debug\NEWERPS.FactoryData2.resources
+C:\Users\pochu\Desktop\1118\NEWERPS\NEWERPS\obj\Debug\NEWERPS.FactoryQuery.resources
+C:\Users\pochu\Desktop\1118\NEWERPS\NEWERPS\obj\Debug\NEWERPS.FactoryRecover.resources
+C:\Users\pochu\Desktop\1118\NEWERPS\NEWERPS\obj\Debug\NEWERPS.ERPLogin.resources
+C:\Users\pochu\Desktop\1118\NEWERPS\NEWERPS\obj\Debug\NEWERPS.LanguageModify.resources
+C:\Users\pochu\Desktop\1118\NEWERPS\NEWERPS\obj\Debug\NEWERPS.LanguageNew.resources
+C:\Users\pochu\Desktop\1118\NEWERPS\NEWERPS\obj\Debug\NEWERPS.LanguageQuery.resources
+C:\Users\pochu\Desktop\1118\NEWERPS\NEWERPS\obj\Debug\NEWERPS.Mainpage.resources
+C:\Users\pochu\Desktop\1118\NEWERPS\NEWERPS\obj\Debug\NEWERPS.Mainpage2.resources
+C:\Users\pochu\Desktop\1118\NEWERPS\NEWERPS\obj\Debug\NEWERPS.MaterialClassSet.resources
+C:\Users\pochu\Desktop\1118\NEWERPS\NEWERPS\obj\Debug\NEWERPS.MaterialClassSetDetail.resources
+C:\Users\pochu\Desktop\1118\NEWERPS\NEWERPS\obj\Debug\NEWERPS.MaterialMainInformation.resources
+C:\Users\pochu\Desktop\1118\NEWERPS\NEWERPS\obj\Debug\NEWERPS.MaterialProperty.resources
+C:\Users\pochu\Desktop\1118\NEWERPS\NEWERPS\obj\Debug\NEWERPS.NewClassFeature.resources
+C:\Users\pochu\Desktop\1118\NEWERPS\NEWERPS\obj\Debug\NEWERPS.NewFeature.resources
+C:\Users\pochu\Desktop\1118\NEWERPS\NEWERPS\obj\Debug\NEWERPS.OBUSelect.resources
+C:\Users\pochu\Desktop\1118\NEWERPS\NEWERPS\obj\Debug\NEWERPS.ProduceMethod.resources
+C:\Users\pochu\Desktop\1118\NEWERPS\NEWERPS\obj\Debug\NEWERPS.Properties.Resources.resources
+C:\Users\pochu\Desktop\1118\NEWERPS\NEWERPS\obj\Debug\NEWERPS.Property.resources
+C:\Users\pochu\Desktop\1118\NEWERPS\NEWERPS\obj\Debug\NEWERPS.SizeBlockStandard.resources
+C:\Users\pochu\Desktop\1118\NEWERPS\NEWERPS\obj\Debug\NEWERPS.UnitInformation.resources
+C:\Users\pochu\Desktop\1118\NEWERPS\NEWERPS\obj\Debug\NEWERPS.VendorData.resources
+C:\Users\pochu\Desktop\1118\NEWERPS\NEWERPS\obj\Debug\NEWERPS.VendorQuery.resources
+C:\Users\pochu\Desktop\1118\NEWERPS\NEWERPS\obj\Debug\NEWERPS.csproj.GenerateResource.cache
+C:\Users\pochu\Desktop\1118\NEWERPS\NEWERPS\obj\Debug\NEWERPS.exe
+C:\Users\pochu\Desktop\1118\NEWERPS\NEWERPS\obj\Debug\NEWERPS.pdb
+C:\Users\pochu\Desktop\1118\NEWERPS\NEWERPS\bin\Debug\NEWERPS.exe.config
+C:\Users\pochu\Desktop\1118\NEWERPS\NEWERPS\bin\Debug\NEWERPS.exe
+C:\Users\pochu\Desktop\1118\NEWERPS\NEWERPS\bin\Debug\NEWERPS.pdb
+C:\Users\pochu\Desktop\1118\NEWERPS\NEWERPS\obj\Debug\NEWERPS.SizeBlockQuery.resources
+C:\Users\pochu\Desktop\1118\NEWERPS\NEWERPS\obj\Debug\NEWERPS.SizeCountry.resources
+C:\Users\pochu\Desktop\1118\NEWERPS\NEWERPS\obj\Debug\NEWERPS.SizeCountryQuery.resources
+C:\Users\pochu\Desktop\1118\NEWERPS\NEWERPS\obj\Debug\NEWERPS.ShoeApplication.resources
+C:\Users\pochu\Desktop\1118\NEWERPS\NEWERPS\obj\Debug\NEWERPS.ShoeAppQuery.resources
+C:\Users\pochu\Desktop\1118\NEWERPS\NEWERPS\obj\Debug\NEWERPS.DevelopSecQuery.resources
+C:\Users\pochu\Desktop\1118\NEWERPS\NEWERPS\obj\Debug\NEWERPS.DevelopSection.resources
+C:\Users\pochu\Desktop\1118\NEWERPS\NEWERPS\obj\Debug\NEWERPS.SizeChart.resources
+C:\Users\pochu\Desktop\1118\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CardboardData.resources
+C:\Users\pochu\Desktop\1118\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CustomerData.resources
+C:\Users\pochu\Desktop\1118\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CustomQuery.resources
+C:\Users\pochu\Desktop\MAIN\NEWERPS\NEWERPS\bin\Debug\NEWERPS.exe.config
+C:\Users\pochu\Desktop\MAIN\NEWERPS\NEWERPS\bin\Debug\NEWERPS.exe
+C:\Users\pochu\Desktop\MAIN\NEWERPS\NEWERPS\bin\Debug\NEWERPS.pdb
+C:\Users\pochu\Desktop\MAIN\NEWERPS\NEWERPS\obj\Debug\NEWERPS.csprojAssemblyReference.cache
+C:\Users\pochu\Desktop\MAIN\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CardboardData.resources
+C:\Users\pochu\Desktop\MAIN\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CustomerData.resources
+C:\Users\pochu\Desktop\MAIN\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CustomQuery.resources
+C:\Users\pochu\Desktop\MAIN\NEWERPS\NEWERPS\obj\Debug\NEWERPS.DevelopSecQuery.resources
+C:\Users\pochu\Desktop\MAIN\NEWERPS\NEWERPS\obj\Debug\NEWERPS.DevelopSection.resources
+C:\Users\pochu\Desktop\MAIN\NEWERPS\NEWERPS\obj\Debug\NEWERPS.FactoryData2.resources
+C:\Users\pochu\Desktop\MAIN\NEWERPS\NEWERPS\obj\Debug\NEWERPS.FactoryQuery.resources
+C:\Users\pochu\Desktop\MAIN\NEWERPS\NEWERPS\obj\Debug\NEWERPS.FactoryRecover.resources
+C:\Users\pochu\Desktop\MAIN\NEWERPS\NEWERPS\obj\Debug\NEWERPS.ERPLogin.resources
+C:\Users\pochu\Desktop\MAIN\NEWERPS\NEWERPS\obj\Debug\NEWERPS.LanguageModify.resources
+C:\Users\pochu\Desktop\MAIN\NEWERPS\NEWERPS\obj\Debug\NEWERPS.LanguageNew.resources
+C:\Users\pochu\Desktop\MAIN\NEWERPS\NEWERPS\obj\Debug\NEWERPS.LanguageQuery.resources
+C:\Users\pochu\Desktop\MAIN\NEWERPS\NEWERPS\obj\Debug\NEWERPS.Mainpage.resources
+C:\Users\pochu\Desktop\MAIN\NEWERPS\NEWERPS\obj\Debug\NEWERPS.Mainpage2.resources
+C:\Users\pochu\Desktop\MAIN\NEWERPS\NEWERPS\obj\Debug\NEWERPS.NewClassFeature.resources
+C:\Users\pochu\Desktop\MAIN\NEWERPS\NEWERPS\obj\Debug\NEWERPS.NewFeature.resources
+C:\Users\pochu\Desktop\MAIN\NEWERPS\NEWERPS\obj\Debug\NEWERPS.OBUSelect.resources
+C:\Users\pochu\Desktop\MAIN\NEWERPS\NEWERPS\obj\Debug\NEWERPS.Properties.Resources.resources
+C:\Users\pochu\Desktop\MAIN\NEWERPS\NEWERPS\obj\Debug\NEWERPS.Property.resources
+C:\Users\pochu\Desktop\MAIN\NEWERPS\NEWERPS\obj\Debug\NEWERPS.ShoeApplication.resources
+C:\Users\pochu\Desktop\MAIN\NEWERPS\NEWERPS\obj\Debug\NEWERPS.ShoeAppQuery.resources
+C:\Users\pochu\Desktop\MAIN\NEWERPS\NEWERPS\obj\Debug\NEWERPS.SizeBlockQuery.resources
+C:\Users\pochu\Desktop\MAIN\NEWERPS\NEWERPS\obj\Debug\NEWERPS.SizeBlockStandard.resources
+C:\Users\pochu\Desktop\MAIN\NEWERPS\NEWERPS\obj\Debug\NEWERPS.SizeChart.resources
+C:\Users\pochu\Desktop\MAIN\NEWERPS\NEWERPS\obj\Debug\NEWERPS.SizeCountry.resources
+C:\Users\pochu\Desktop\MAIN\NEWERPS\NEWERPS\obj\Debug\NEWERPS.SizeCountryQuery.resources
+C:\Users\pochu\Desktop\MAIN\NEWERPS\NEWERPS\obj\Debug\NEWERPS.VendorData.resources
+C:\Users\pochu\Desktop\MAIN\NEWERPS\NEWERPS\obj\Debug\NEWERPS.VendorQuery.resources
+C:\Users\pochu\Desktop\MAIN\NEWERPS\NEWERPS\obj\Debug\NEWERPS.csproj.GenerateResource.cache
+C:\Users\pochu\Desktop\MAIN\NEWERPS\NEWERPS\obj\Debug\NEWERPS.exe
+C:\Users\pochu\Desktop\MAIN\NEWERPS\NEWERPS\obj\Debug\NEWERPS.pdb
+C:\Users\pochu\Desktop\MAIN\NEWERPS\NEWERPS\bin\Debug\NEWERPS.exe.manifest
+C:\Users\pochu\Desktop\MAIN\NEWERPS\NEWERPS\bin\Debug\NEWERPS.application
+C:\Users\pochu\Desktop\MAIN\NEWERPS\NEWERPS\obj\Debug\NEWERPS.exe.manifest
+C:\Users\pochu\Desktop\MAIN\NEWERPS\NEWERPS\obj\Debug\NEWERPS.application
+C:\Users\pochu\Desktop\MAIN\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CardboardQuery.resources
+C:\Users\pochu\Desktop\MAIN\NEWERPS\NEWERPS\obj\Debug\NEWERPS.TempMaterial.resources
+C:\Users\pochu\Desktop\MAIN\NEWERPS\NEWERPS\obj\Debug\NEWERPS.TempQuery.resources
+C:\Users\pochu\Desktop\MAIN\NEWERPS\NEWERPS\obj\Debug\NEWERPS.OfficialMaterial.resources
+C:\Users\pochu\Desktop\MAIN\NEWERPS\NEWERPS\obj\Debug\NEWERPS.SampleDate.resources
+C:\Users\pochu\Desktop\MAIN\NEWERPS\NEWERPS\obj\Debug\NEWERPS.SampleZsbh.resources
+C:\Users\pochu\Desktop\MAIN\NEWERPS\NEWERPS\obj\Debug\NEWERPS.SampleConfirm.resources
+C:\Users\pochu\Desktop\MAIN\NEWERPS\NEWERPS\obj\Debug\NEWERPS.SamConDate.resources
+C:\Users\pochu\Desktop\MAIN\NEWERPS\NEWERPS\obj\Debug\NEWERPS.MaterialProperty2.resources
+C:\Users\pochu\Desktop\MAIN\NEWERPS\NEWERPS\obj\Debug\NEWERPS.SamplePurchase2.resources
+C:\Users\pochu\Desktop\MAIN\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CAUSE.resources
+C:\Users\pochu\Desktop\MAIN\NEWERPS\NEWERPS\obj\Debug\NEWERPS.Country.resources
+C:\Users\pochu\Desktop\MAIN\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CountryQuery.resources
+C:\Users\pochu\Desktop\MAIN\NEWERPS\NEWERPS\obj\Debug\NEWERPS.Currency.resources
+C:\Users\pochu\Desktop\MAIN\NEWERPS\NEWERPS\obj\Debug\NEWERPS.Destination.resources
+C:\Users\pochu\Desktop\MAIN\NEWERPS\NEWERPS\obj\Debug\NEWERPS.Distributors.resources
+C:\Users\pochu\Desktop\MAIN\NEWERPS\NEWERPS\obj\Debug\NEWERPS.PaymentTerm.resources
+C:\Users\pochu\Desktop\MAIN\NEWERPS\NEWERPS\obj\Debug\NEWERPS.TradeTerm.resources
+C:\Users\pochu\Desktop\MAIN\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CauseQuery.resources
+C:\Users\pochu\Desktop\MAIN\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CurrencyQuery.resources
+C:\Users\pochu\Desktop\MAIN\NEWERPS\NEWERPS\obj\Debug\NEWERPS.DestinationQuery.resources
+C:\Users\pochu\Desktop\MAIN\NEWERPS\NEWERPS\obj\Debug\NEWERPS.DistributorsQuery.resources
+C:\Users\pochu\Desktop\MAIN\NEWERPS\NEWERPS\obj\Debug\NEWERPS.PaymentTermQuery.resources
+C:\Users\pochu\Desktop\MAIN\NEWERPS\NEWERPS\obj\Debug\NEWERPS.TradeTermQuery.resources
+C:\Users\pochu\Desktop\MAIN\NEWERPS\NEWERPS\obj\Debug\NEWERPS.SampleOrderCreate.resources
+C:\Users\pochu\Desktop\MAIN\NEWERPS\NEWERPS\obj\Debug\NEWERPS.SamplePrice.resources
+C:\Users\pochu\Desktop\MAIN\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CFXTZL.resources
+C:\Users\pochu\Desktop\MAIN\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CFXTZLQuery.resources
+C:\Users\pochu\Desktop\MAIN\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CFXTZLBOM.resources
+C:\Users\pochu\Desktop\MAIN\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CFXTXieXing.resources
+C:\Users\pochu\Desktop\MAIN\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CFXTZLCopy.resources
+C:\Users\pochu\Desktop\MAIN\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CFXTZLSize.resources
+C:\Users\pochu\Desktop\MAIN\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CFXTZLBWBH.resources
+C:\Users\pochu\Desktop\MAIN\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CFXTZLCLBH.resources
+C:\Users\pochu\Desktop\MAIN\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CFXTZLSPBOM.resources
+C:\Users\pochu\Desktop\MAIN\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CFXTZLSupplier.resources
+C:\Users\pochu\Desktop\MAIN\NEWERPS\NEWERPS\obj\Debug\NEWERPS.BomMaintain.resources
+C:\Users\pochu\Desktop\MAIN\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CFXTZLSepPrice.resources
+C:\Users\pochu\Desktop\MAIN\NEWERPS\NEWERPS\obj\Debug\NEWERPS.PropertyDelete.resources
+C:\Users\pochu\Desktop\MAIN\NEWERPS\NEWERPS\obj\Debug\NEWERPS.BomCopy.resources
+C:\Users\pochu\Desktop\MAIN\NEWERPS\NEWERPS\obj\Debug\NEWERPS.BI.resources
+C:\Users\pochu\Desktop\MAIN\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CBI.resources
+C:\Users\pochu\Desktop\MAIN\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CBID.resources
+C:\Users\pochu\Desktop\MAIN\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CI.resources
+C:\Users\pochu\Desktop\MAIN\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CID.resources
+C:\Users\pochu\Desktop\MAIN\NEWERPS\NEWERPS\obj\Debug\NEWERPS.DC.resources
+C:\Users\pochu\Desktop\MAIN\NEWERPS\NEWERPS\obj\Debug\NEWERPS.DCD.resources
+C:\Users\pochu\Desktop\MAIN\NEWERPS\NEWERPS\obj\Debug\NEWERPS.DM.resources
+C:\Users\pochu\Desktop\MAIN\NEWERPS\NEWERPS\obj\Debug\NEWERPS.DMC.resources
+C:\Users\pochu\Desktop\MAIN\NEWERPS\NEWERPS\obj\Debug\NEWERPS.DMD.resources
+C:\Users\pochu\Desktop\MAIN\NEWERPS\NEWERPS\obj\Debug\NEWERPS.MaterialCS.resources
+C:\Users\pochu\Desktop\MAIN\NEWERPS\NEWERPS\obj\Debug\NEWERPS.MaterialCSD.resources
+C:\Users\pochu\Desktop\MAIN\NEWERPS\NEWERPS\obj\Debug\NEWERPS.MMI.resources
+C:\Users\pochu\Desktop\MAIN\NEWERPS\NEWERPS\obj\Debug\NEWERPS.MMID.resources
+C:\Users\pochu\Desktop\MAIN\NEWERPS\NEWERPS\obj\Debug\NEWERPS.MMIDS.resources
+C:\Users\pochu\Desktop\MAIN\NEWERPS\NEWERPS\obj\Debug\NEWERPS.MMIS.resources
+C:\Users\pochu\Desktop\MAIN\NEWERPS\NEWERPS\obj\Debug\NEWERPS.MoldCS.resources
+C:\Users\pochu\Desktop\MAIN\NEWERPS\NEWERPS\obj\Debug\NEWERPS.MoldCSD.resources
+C:\Users\pochu\Desktop\MAIN\NEWERPS\NEWERPS\obj\Debug\NEWERPS.MS.resources
+C:\Users\pochu\Desktop\MAIN\NEWERPS\NEWERPS\obj\Debug\NEWERPS.MS200.resources
+C:\Users\pochu\Desktop\MAIN\NEWERPS\NEWERPS\obj\Debug\NEWERPS.MSD.resources
+C:\Users\pochu\Desktop\MAIN\NEWERPS\NEWERPS\obj\Debug\NEWERPS.MSSD.resources
+C:\Users\pochu\Desktop\MAIN\NEWERPS\NEWERPS\obj\Debug\NEWERPS.PM.resources
+C:\Users\pochu\Desktop\MAIN\NEWERPS\NEWERPS\obj\Debug\NEWERPS.PMD.resources
+C:\Users\pochu\Desktop\MAIN\NEWERPS\NEWERPS\obj\Debug\NEWERPS.PMS.resources
+C:\Users\pochu\Desktop\MAIN\NEWERPS\NEWERPS\obj\Debug\NEWERPS.UI.resources
+C:\Users\pochu\Desktop\MAIN\NEWERPS\NEWERPS\obj\Debug\NEWERPS.UID.resources
+C:\Users\pochu\Desktop\MAIN\NEWERPS\NEWERPS\obj\Debug\NEWERPS.PS.resources
+C:\Users\pochu\Desktop\MAIN\NEWERPS\NEWERPS\obj\Debug\NEWERPS.PSD.resources
+C:\Users\pochu\Desktop\MAIN\NEWERPS\NEWERPS\obj\Debug\NEWERPS.MMIDM.resources
+C:\Users\pochu\Desktop\MAIN\NEWERPS\NEWERPS\bin\Debug\stdole.dll
+C:\Users\pochu\Desktop\MAIN\NEWERPS\NEWERPS\obj\Debug\NEWERPS.csproj.CopyComplete
+C:\Users\pochu\Desktop\MAIN\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CGBJ.resources
+C:\Users\pochu\Desktop\MAIN\NEWERPS\NEWERPS\obj\Debug\NEWERPS.MSO.resources
+C:\Users\pochu\Desktop\MAIN\NEWERPS\NEWERPS\obj\Debug\NEWERPS.MSOD.resources
+C:\Users\pochu\Desktop\MAIN\NEWERPS\NEWERPS\obj\Debug\NEWERPS.MSOIM.resources
+C:\Users\pochu\Desktop\MAIN\NEWERPS\NEWERPS\obj\Debug\NEWERPS.MSS.resources
+C:\Users\pochu\Desktop\MAIN\NEWERPS\NEWERPS\obj\Debug\NEWERPS.QO.resources
+C:\Users\pochu\Desktop\MAIN\NEWERPS\NEWERPS\obj\Debug\NEWERPS.QOD.resources
+C:\Users\pochu\Desktop\MAIN\NEWERPS\NEWERPS\obj\Debug\NEWERPS.QOSZSBH.resources
+C:\Users\pochu\Desktop\MAIN\NEWERPS\NEWERPS\obj\Debug\NEWERPS.SOC.resources
+C:\Users\pochu\Desktop\MAIN\NEWERPS\NEWERPS\obj\Debug\NEWERPS.SOCD.resources
+C:\Users\pochu\Desktop\MAIN\NEWERPS\NEWERPS\obj\Debug\NEWERPS.SOSM.resources
+C:\Users\pochu\Desktop\MAIN\NEWERPS\NEWERPS\obj\Debug\NEWERPS.SOSMBOMBWBH.resources
+C:\Users\pochu\Desktop\MAIN\NEWERPS\NEWERPS\obj\Debug\NEWERPS.SOSMBOMCLBH.resources
+C:\Users\pochu\Desktop\MAIN\NEWERPS\NEWERPS\obj\Debug\NEWERPS.OrderMain.resources
+C:\Users\pochu\Desktop\MAIN\NEWERPS\NEWERPS\obj\Debug\NEWERPS.AdvanceOrder.resources
+C:\Users\pochu\Desktop\MAIN\NEWERPS\NEWERPS\obj\Debug\NEWERPS.BomClBH.resources
+C:\Users\pochu\Desktop\MAIN\NEWERPS\NEWERPS\obj\Debug\NEWERPS.BomCSBH.resources
+C:\Users\pochu\Desktop\MAIN\NEWERPS\NEWERPS\obj\Debug\NEWERPS.OrderQuery.resources
+C:\Users\pochu\Desktop\MAIN\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CFXTZLSizeInsert1.resources
+C:\Users\pochu\Desktop\MAIN\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CFXTZXLSizeInsert2.resources
+C:\Users\pochu\Desktop\MAIN\NEWERPS\NEWERPS\obj\Debug\NEWERPS.OrderMom.resources
+C:\Users\pochu\Desktop\MAIN\NEWERPS\NEWERPS\obj\Debug\NEWERPS.OrderShippingCopy.resources
+C:\Users\pochu\Desktop\MAIN\NEWERPS\NEWERPS\obj\Debug\NEWERPS.OrderShippingMark.resources
+C:\Users\pochu\Desktop\MAIN\NEWERPS\NEWERPS\obj\Debug\NEWERPS.OrderZlzls.resources
+C:\Users\pochu\Desktop\MAIN\NEWERPS\NEWERPS\obj\Debug\NEWERPS.BomInsert.resources
+C:\Users\pochu\Desktop\MAIN\NEWERPS\NEWERPS\obj\Debug\NEWERPS.QODSCLBH.resources
+C:\Users\pochu\Desktop\MAIN\NEWERPS\NEWERPS\obj\Debug\NEWERPS.QOC.resources
+C:\Users\jeff-i7-win10\Desktop\erp\NEWERPS\NEWERPS\bin\Debug\NEWERPS.exe.config
+C:\Users\jeff-i7-win10\Desktop\erp\NEWERPS\NEWERPS\bin\Debug\NEWERPS.exe.manifest
+C:\Users\jeff-i7-win10\Desktop\erp\NEWERPS\NEWERPS\bin\Debug\NEWERPS.application
+C:\Users\jeff-i7-win10\Desktop\erp\NEWERPS\NEWERPS\bin\Debug\NEWERPS.exe
+C:\Users\jeff-i7-win10\Desktop\erp\NEWERPS\NEWERPS\bin\Debug\NEWERPS.pdb
+C:\Users\jeff-i7-win10\Desktop\erp\NEWERPS\NEWERPS\bin\Debug\stdole.dll
+C:\Users\jeff-i7-win10\Desktop\erp\NEWERPS\NEWERPS\obj\Debug\NEWERPS.csprojAssemblyReference.cache
+C:\Users\jeff-i7-win10\Desktop\erp\NEWERPS\NEWERPS\obj\Debug\NEWERPS.AdvanceOrder.resources
+C:\Users\jeff-i7-win10\Desktop\erp\NEWERPS\NEWERPS\obj\Debug\NEWERPS.BI.resources
+C:\Users\jeff-i7-win10\Desktop\erp\NEWERPS\NEWERPS\obj\Debug\NEWERPS.BomClBH.resources
+C:\Users\jeff-i7-win10\Desktop\erp\NEWERPS\NEWERPS\obj\Debug\NEWERPS.BomCopy.resources
+C:\Users\jeff-i7-win10\Desktop\erp\NEWERPS\NEWERPS\obj\Debug\NEWERPS.BomCSBH.resources
+C:\Users\jeff-i7-win10\Desktop\erp\NEWERPS\NEWERPS\obj\Debug\NEWERPS.BomInsert.resources
+C:\Users\jeff-i7-win10\Desktop\erp\NEWERPS\NEWERPS\obj\Debug\NEWERPS.BomMaintain.resources
+C:\Users\jeff-i7-win10\Desktop\erp\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CardboardData.resources
+C:\Users\jeff-i7-win10\Desktop\erp\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CardboardQuery.resources
+C:\Users\jeff-i7-win10\Desktop\erp\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CAUSE.resources
+C:\Users\jeff-i7-win10\Desktop\erp\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CauseQuery.resources
+C:\Users\jeff-i7-win10\Desktop\erp\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CBI.resources
+C:\Users\jeff-i7-win10\Desktop\erp\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CBID.resources
+C:\Users\jeff-i7-win10\Desktop\erp\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CFXTXieXing.resources
+C:\Users\jeff-i7-win10\Desktop\erp\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CFXTZL.resources
+C:\Users\jeff-i7-win10\Desktop\erp\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CFXTZLBOM.resources
+C:\Users\jeff-i7-win10\Desktop\erp\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CFXTZLBWBH.resources
+C:\Users\jeff-i7-win10\Desktop\erp\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CFXTZLCLBH.resources
+C:\Users\jeff-i7-win10\Desktop\erp\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CFXTZLCopy.resources
+C:\Users\jeff-i7-win10\Desktop\erp\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CFXTZLQuery.resources
+C:\Users\jeff-i7-win10\Desktop\erp\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CFXTZLSepPrice.resources
+C:\Users\jeff-i7-win10\Desktop\erp\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CFXTZLSize.resources
+C:\Users\jeff-i7-win10\Desktop\erp\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CFXTZLSizeInsert1.resources
+C:\Users\jeff-i7-win10\Desktop\erp\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CFXTZLSPBOM.resources
+C:\Users\jeff-i7-win10\Desktop\erp\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CFXTZLSupplier.resources
+C:\Users\jeff-i7-win10\Desktop\erp\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CFXTZXLSizeInsert2.resources
+C:\Users\jeff-i7-win10\Desktop\erp\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CGBJ.resources
+C:\Users\jeff-i7-win10\Desktop\erp\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CI.resources
+C:\Users\jeff-i7-win10\Desktop\erp\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CID.resources
+C:\Users\jeff-i7-win10\Desktop\erp\NEWERPS\NEWERPS\obj\Debug\NEWERPS.Country.resources
+C:\Users\jeff-i7-win10\Desktop\erp\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CountryQuery.resources
+C:\Users\jeff-i7-win10\Desktop\erp\NEWERPS\NEWERPS\obj\Debug\NEWERPS.Currency.resources
+C:\Users\jeff-i7-win10\Desktop\erp\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CurrencyQuery.resources
+C:\Users\jeff-i7-win10\Desktop\erp\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CustomerData.resources
+C:\Users\jeff-i7-win10\Desktop\erp\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CustomQuery.resources
+C:\Users\jeff-i7-win10\Desktop\erp\NEWERPS\NEWERPS\obj\Debug\NEWERPS.DC.resources
+C:\Users\jeff-i7-win10\Desktop\erp\NEWERPS\NEWERPS\obj\Debug\NEWERPS.DCD.resources
+C:\Users\jeff-i7-win10\Desktop\erp\NEWERPS\NEWERPS\obj\Debug\NEWERPS.Destination.resources
+C:\Users\jeff-i7-win10\Desktop\erp\NEWERPS\NEWERPS\obj\Debug\NEWERPS.DestinationQuery.resources
+C:\Users\jeff-i7-win10\Desktop\erp\NEWERPS\NEWERPS\obj\Debug\NEWERPS.DevelopSecQuery.resources
+C:\Users\jeff-i7-win10\Desktop\erp\NEWERPS\NEWERPS\obj\Debug\NEWERPS.DevelopSection.resources
+C:\Users\jeff-i7-win10\Desktop\erp\NEWERPS\NEWERPS\obj\Debug\NEWERPS.Distributors.resources
+C:\Users\jeff-i7-win10\Desktop\erp\NEWERPS\NEWERPS\obj\Debug\NEWERPS.DistributorsQuery.resources
+C:\Users\jeff-i7-win10\Desktop\erp\NEWERPS\NEWERPS\obj\Debug\NEWERPS.DM.resources
+C:\Users\jeff-i7-win10\Desktop\erp\NEWERPS\NEWERPS\obj\Debug\NEWERPS.DMC.resources
+C:\Users\jeff-i7-win10\Desktop\erp\NEWERPS\NEWERPS\obj\Debug\NEWERPS.DMD.resources
+C:\Users\jeff-i7-win10\Desktop\erp\NEWERPS\NEWERPS\obj\Debug\NEWERPS.FactoryData2.resources
+C:\Users\jeff-i7-win10\Desktop\erp\NEWERPS\NEWERPS\obj\Debug\NEWERPS.FactoryQuery.resources
+C:\Users\jeff-i7-win10\Desktop\erp\NEWERPS\NEWERPS\obj\Debug\NEWERPS.FactoryRecover.resources
+C:\Users\jeff-i7-win10\Desktop\erp\NEWERPS\NEWERPS\obj\Debug\NEWERPS.ERPLogin.resources
+C:\Users\jeff-i7-win10\Desktop\erp\NEWERPS\NEWERPS\obj\Debug\NEWERPS.LanguageModify.resources
+C:\Users\jeff-i7-win10\Desktop\erp\NEWERPS\NEWERPS\obj\Debug\NEWERPS.LanguageNew.resources
+C:\Users\jeff-i7-win10\Desktop\erp\NEWERPS\NEWERPS\obj\Debug\NEWERPS.LanguageQuery.resources
+C:\Users\jeff-i7-win10\Desktop\erp\NEWERPS\NEWERPS\obj\Debug\NEWERPS.Mainpage.resources
+C:\Users\jeff-i7-win10\Desktop\erp\NEWERPS\NEWERPS\obj\Debug\NEWERPS.Mainpage2.resources
+C:\Users\jeff-i7-win10\Desktop\erp\NEWERPS\NEWERPS\obj\Debug\NEWERPS.MaterialCS.resources
+C:\Users\jeff-i7-win10\Desktop\erp\NEWERPS\NEWERPS\obj\Debug\NEWERPS.MaterialCSD.resources
+C:\Users\jeff-i7-win10\Desktop\erp\NEWERPS\NEWERPS\obj\Debug\NEWERPS.MaterialProperty2.resources
+C:\Users\jeff-i7-win10\Desktop\erp\NEWERPS\NEWERPS\obj\Debug\NEWERPS.MMI.resources
+C:\Users\jeff-i7-win10\Desktop\erp\NEWERPS\NEWERPS\obj\Debug\NEWERPS.MMID.resources
+C:\Users\jeff-i7-win10\Desktop\erp\NEWERPS\NEWERPS\obj\Debug\NEWERPS.MMIDM.resources
+C:\Users\jeff-i7-win10\Desktop\erp\NEWERPS\NEWERPS\obj\Debug\NEWERPS.MMIDS.resources
+C:\Users\jeff-i7-win10\Desktop\erp\NEWERPS\NEWERPS\obj\Debug\NEWERPS.MMIS.resources
+C:\Users\jeff-i7-win10\Desktop\erp\NEWERPS\NEWERPS\obj\Debug\NEWERPS.MoldCS.resources
+C:\Users\jeff-i7-win10\Desktop\erp\NEWERPS\NEWERPS\obj\Debug\NEWERPS.MoldCSD.resources
+C:\Users\jeff-i7-win10\Desktop\erp\NEWERPS\NEWERPS\obj\Debug\NEWERPS.MS.resources
+C:\Users\jeff-i7-win10\Desktop\erp\NEWERPS\NEWERPS\obj\Debug\NEWERPS.MS200.resources
+C:\Users\jeff-i7-win10\Desktop\erp\NEWERPS\NEWERPS\obj\Debug\NEWERPS.MSD.resources
+C:\Users\jeff-i7-win10\Desktop\erp\NEWERPS\NEWERPS\obj\Debug\NEWERPS.MSO.resources
+C:\Users\jeff-i7-win10\Desktop\erp\NEWERPS\NEWERPS\obj\Debug\NEWERPS.MSOD.resources
+C:\Users\jeff-i7-win10\Desktop\erp\NEWERPS\NEWERPS\obj\Debug\NEWERPS.MSOIM.resources
+C:\Users\jeff-i7-win10\Desktop\erp\NEWERPS\NEWERPS\obj\Debug\NEWERPS.MSS.resources
+C:\Users\jeff-i7-win10\Desktop\erp\NEWERPS\NEWERPS\obj\Debug\NEWERPS.MSSD.resources
+C:\Users\jeff-i7-win10\Desktop\erp\NEWERPS\NEWERPS\obj\Debug\NEWERPS.NewClassFeature.resources
+C:\Users\jeff-i7-win10\Desktop\erp\NEWERPS\NEWERPS\obj\Debug\NEWERPS.NewFeature.resources
+C:\Users\jeff-i7-win10\Desktop\erp\NEWERPS\NEWERPS\obj\Debug\NEWERPS.OBUSelect.resources
+C:\Users\jeff-i7-win10\Desktop\erp\NEWERPS\NEWERPS\obj\Debug\NEWERPS.OfficialMaterial.resources
+C:\Users\jeff-i7-win10\Desktop\erp\NEWERPS\NEWERPS\obj\Debug\NEWERPS.OrderMain.resources
+C:\Users\jeff-i7-win10\Desktop\erp\NEWERPS\NEWERPS\obj\Debug\NEWERPS.OrderMom.resources
+C:\Users\jeff-i7-win10\Desktop\erp\NEWERPS\NEWERPS\obj\Debug\NEWERPS.OrderQuery.resources
+C:\Users\jeff-i7-win10\Desktop\erp\NEWERPS\NEWERPS\obj\Debug\NEWERPS.OrderShippingCopy.resources
+C:\Users\jeff-i7-win10\Desktop\erp\NEWERPS\NEWERPS\obj\Debug\NEWERPS.OrderShippingMark.resources
+C:\Users\jeff-i7-win10\Desktop\erp\NEWERPS\NEWERPS\obj\Debug\NEWERPS.OrderZlzls.resources
+C:\Users\jeff-i7-win10\Desktop\erp\NEWERPS\NEWERPS\obj\Debug\NEWERPS.PaymentTerm.resources
+C:\Users\jeff-i7-win10\Desktop\erp\NEWERPS\NEWERPS\obj\Debug\NEWERPS.PaymentTermQuery.resources
+C:\Users\jeff-i7-win10\Desktop\erp\NEWERPS\NEWERPS\obj\Debug\NEWERPS.PM.resources
+C:\Users\jeff-i7-win10\Desktop\erp\NEWERPS\NEWERPS\obj\Debug\NEWERPS.PMD.resources
+C:\Users\jeff-i7-win10\Desktop\erp\NEWERPS\NEWERPS\obj\Debug\NEWERPS.PMS.resources
+C:\Users\jeff-i7-win10\Desktop\erp\NEWERPS\NEWERPS\obj\Debug\NEWERPS.Properties.Resources.resources
+C:\Users\jeff-i7-win10\Desktop\erp\NEWERPS\NEWERPS\obj\Debug\NEWERPS.Property.resources
+C:\Users\jeff-i7-win10\Desktop\erp\NEWERPS\NEWERPS\obj\Debug\NEWERPS.PropertyDelete.resources
+C:\Users\jeff-i7-win10\Desktop\erp\NEWERPS\NEWERPS\obj\Debug\NEWERPS.PS.resources
+C:\Users\jeff-i7-win10\Desktop\erp\NEWERPS\NEWERPS\obj\Debug\NEWERPS.PSD.resources
+C:\Users\jeff-i7-win10\Desktop\erp\NEWERPS\NEWERPS\obj\Debug\NEWERPS.QO.resources
+C:\Users\jeff-i7-win10\Desktop\erp\NEWERPS\NEWERPS\obj\Debug\NEWERPS.QOC.resources
+C:\Users\jeff-i7-win10\Desktop\erp\NEWERPS\NEWERPS\obj\Debug\NEWERPS.QOD.resources
+C:\Users\jeff-i7-win10\Desktop\erp\NEWERPS\NEWERPS\obj\Debug\NEWERPS.QODSCLBH.resources
+C:\Users\jeff-i7-win10\Desktop\erp\NEWERPS\NEWERPS\obj\Debug\NEWERPS.QOSZSBH.resources
+C:\Users\jeff-i7-win10\Desktop\erp\NEWERPS\NEWERPS\obj\Debug\NEWERPS.SamConDate.resources
+C:\Users\jeff-i7-win10\Desktop\erp\NEWERPS\NEWERPS\obj\Debug\NEWERPS.SampleConfirm.resources
+C:\Users\jeff-i7-win10\Desktop\erp\NEWERPS\NEWERPS\obj\Debug\NEWERPS.SampleDate.resources
+C:\Users\jeff-i7-win10\Desktop\erp\NEWERPS\NEWERPS\obj\Debug\NEWERPS.SamplePrice.resources
+C:\Users\jeff-i7-win10\Desktop\erp\NEWERPS\NEWERPS\obj\Debug\NEWERPS.SamplePurchase2.resources
+C:\Users\jeff-i7-win10\Desktop\erp\NEWERPS\NEWERPS\obj\Debug\NEWERPS.SampleZsbh.resources
+C:\Users\jeff-i7-win10\Desktop\erp\NEWERPS\NEWERPS\obj\Debug\NEWERPS.ShoeApplication.resources
+C:\Users\jeff-i7-win10\Desktop\erp\NEWERPS\NEWERPS\obj\Debug\NEWERPS.ShoeAppQuery.resources
+C:\Users\jeff-i7-win10\Desktop\erp\NEWERPS\NEWERPS\obj\Debug\NEWERPS.SizeBlockQuery.resources
+C:\Users\jeff-i7-win10\Desktop\erp\NEWERPS\NEWERPS\obj\Debug\NEWERPS.SizeBlockStandard.resources
+C:\Users\jeff-i7-win10\Desktop\erp\NEWERPS\NEWERPS\obj\Debug\NEWERPS.SizeChart.resources
+C:\Users\jeff-i7-win10\Desktop\erp\NEWERPS\NEWERPS\obj\Debug\NEWERPS.SizeCountry.resources
+C:\Users\jeff-i7-win10\Desktop\erp\NEWERPS\NEWERPS\obj\Debug\NEWERPS.SizeCountryQuery.resources
+C:\Users\jeff-i7-win10\Desktop\erp\NEWERPS\NEWERPS\obj\Debug\NEWERPS.SOC.resources
+C:\Users\jeff-i7-win10\Desktop\erp\NEWERPS\NEWERPS\obj\Debug\NEWERPS.SOCD.resources
+C:\Users\jeff-i7-win10\Desktop\erp\NEWERPS\NEWERPS\obj\Debug\NEWERPS.SOSM.resources
+C:\Users\jeff-i7-win10\Desktop\erp\NEWERPS\NEWERPS\obj\Debug\NEWERPS.SOSMBOMBWBH.resources
+C:\Users\jeff-i7-win10\Desktop\erp\NEWERPS\NEWERPS\obj\Debug\NEWERPS.SOSMBOMCLBH.resources
+C:\Users\jeff-i7-win10\Desktop\erp\NEWERPS\NEWERPS\obj\Debug\NEWERPS.TempMaterial.resources
+C:\Users\jeff-i7-win10\Desktop\erp\NEWERPS\NEWERPS\obj\Debug\NEWERPS.TempQuery.resources
+C:\Users\jeff-i7-win10\Desktop\erp\NEWERPS\NEWERPS\obj\Debug\NEWERPS.TradeTerm.resources
+C:\Users\jeff-i7-win10\Desktop\erp\NEWERPS\NEWERPS\obj\Debug\NEWERPS.TradeTermQuery.resources
+C:\Users\jeff-i7-win10\Desktop\erp\NEWERPS\NEWERPS\obj\Debug\NEWERPS.UI.resources
+C:\Users\jeff-i7-win10\Desktop\erp\NEWERPS\NEWERPS\obj\Debug\NEWERPS.UID.resources
+C:\Users\jeff-i7-win10\Desktop\erp\NEWERPS\NEWERPS\obj\Debug\NEWERPS.VendorData.resources
+C:\Users\jeff-i7-win10\Desktop\erp\NEWERPS\NEWERPS\obj\Debug\NEWERPS.VendorQuery.resources
+C:\Users\jeff-i7-win10\Desktop\erp\NEWERPS\NEWERPS\obj\Debug\NEWERPS.csproj.GenerateResource.cache
+C:\Users\jeff-i7-win10\Desktop\erp\NEWERPS\NEWERPS\obj\Debug\NEWERPS.csproj.CoreCompileInputs.cache
+C:\Users\jeff-i7-win10\Desktop\erp\NEWERPS\NEWERPS\obj\Debug\NEWERPS.exe.manifest
+C:\Users\jeff-i7-win10\Desktop\erp\NEWERPS\NEWERPS\obj\Debug\NEWERPS.application
+C:\Users\jeff-i7-win10\Desktop\erp\NEWERPS\NEWERPS\obj\Debug\NEWERPS.csproj.CopyComplete
+C:\Users\jeff-i7-win10\Desktop\erp\NEWERPS\NEWERPS\obj\Debug\NEWERPS.exe
+C:\Users\jeff-i7-win10\Desktop\erp\NEWERPS\NEWERPS\obj\Debug\NEWERPS.pdb
+C:\Users\jeff-i7-win10\Desktop\Project folder\NEWERPS\NEWERPS\bin\Debug\NEWERPS.exe.config
+C:\Users\jeff-i7-win10\Desktop\Project folder\NEWERPS\NEWERPS\bin\Debug\NEWERPS.exe.manifest
+C:\Users\jeff-i7-win10\Desktop\Project folder\NEWERPS\NEWERPS\bin\Debug\NEWERPS.application
+C:\Users\jeff-i7-win10\Desktop\Project folder\NEWERPS\NEWERPS\bin\Debug\NEWERPS.exe
+C:\Users\jeff-i7-win10\Desktop\Project folder\NEWERPS\NEWERPS\bin\Debug\NEWERPS.pdb
+C:\Users\jeff-i7-win10\Desktop\Project folder\NEWERPS\NEWERPS\bin\Debug\stdole.dll
+C:\Users\jeff-i7-win10\Desktop\Project folder\NEWERPS\NEWERPS\obj\Debug\NEWERPS.csprojAssemblyReference.cache
+C:\Users\jeff-i7-win10\Desktop\Project folder\NEWERPS\NEWERPS\obj\Debug\NEWERPS.AdvanceOrder.resources
+C:\Users\jeff-i7-win10\Desktop\Project folder\NEWERPS\NEWERPS\obj\Debug\NEWERPS.BI.resources
+C:\Users\jeff-i7-win10\Desktop\Project folder\NEWERPS\NEWERPS\obj\Debug\NEWERPS.BomClBH.resources
+C:\Users\jeff-i7-win10\Desktop\Project folder\NEWERPS\NEWERPS\obj\Debug\NEWERPS.BomCopy.resources
+C:\Users\jeff-i7-win10\Desktop\Project folder\NEWERPS\NEWERPS\obj\Debug\NEWERPS.BomCSBH.resources
+C:\Users\jeff-i7-win10\Desktop\Project folder\NEWERPS\NEWERPS\obj\Debug\NEWERPS.BomInsert.resources
+C:\Users\jeff-i7-win10\Desktop\Project folder\NEWERPS\NEWERPS\obj\Debug\NEWERPS.BomMaintain.resources
+C:\Users\jeff-i7-win10\Desktop\Project folder\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CardboardData.resources
+C:\Users\jeff-i7-win10\Desktop\Project folder\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CardboardQuery.resources
+C:\Users\jeff-i7-win10\Desktop\Project folder\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CAUSE.resources
+C:\Users\jeff-i7-win10\Desktop\Project folder\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CauseQuery.resources
+C:\Users\jeff-i7-win10\Desktop\Project folder\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CBI.resources
+C:\Users\jeff-i7-win10\Desktop\Project folder\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CBID.resources
+C:\Users\jeff-i7-win10\Desktop\Project folder\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CFXTXieXing.resources
+C:\Users\jeff-i7-win10\Desktop\Project folder\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CFXTZL.resources
+C:\Users\jeff-i7-win10\Desktop\Project folder\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CFXTZLBOM.resources
+C:\Users\jeff-i7-win10\Desktop\Project folder\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CFXTZLBWBH.resources
+C:\Users\jeff-i7-win10\Desktop\Project folder\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CFXTZLCLBH.resources
+C:\Users\jeff-i7-win10\Desktop\Project folder\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CFXTZLCopy.resources
+C:\Users\jeff-i7-win10\Desktop\Project folder\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CFXTZLQuery.resources
+C:\Users\jeff-i7-win10\Desktop\Project folder\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CFXTZLSepPrice.resources
+C:\Users\jeff-i7-win10\Desktop\Project folder\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CFXTZLSize.resources
+C:\Users\jeff-i7-win10\Desktop\Project folder\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CFXTZLSizeInsert1.resources
+C:\Users\jeff-i7-win10\Desktop\Project folder\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CFXTZLSPBOM.resources
+C:\Users\jeff-i7-win10\Desktop\Project folder\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CFXTZLSupplier.resources
+C:\Users\jeff-i7-win10\Desktop\Project folder\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CFXTZXLSizeInsert2.resources
+C:\Users\jeff-i7-win10\Desktop\Project folder\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CGBJ.resources
+C:\Users\jeff-i7-win10\Desktop\Project folder\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CI.resources
+C:\Users\jeff-i7-win10\Desktop\Project folder\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CID.resources
+C:\Users\jeff-i7-win10\Desktop\Project folder\NEWERPS\NEWERPS\obj\Debug\NEWERPS.Country.resources
+C:\Users\jeff-i7-win10\Desktop\Project folder\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CountryQuery.resources
+C:\Users\jeff-i7-win10\Desktop\Project folder\NEWERPS\NEWERPS\obj\Debug\NEWERPS.Currency.resources
+C:\Users\jeff-i7-win10\Desktop\Project folder\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CurrencyQuery.resources
+C:\Users\jeff-i7-win10\Desktop\Project folder\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CustomerData.resources
+C:\Users\jeff-i7-win10\Desktop\Project folder\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CustomQuery.resources
+C:\Users\jeff-i7-win10\Desktop\Project folder\NEWERPS\NEWERPS\obj\Debug\NEWERPS.DC.resources
+C:\Users\jeff-i7-win10\Desktop\Project folder\NEWERPS\NEWERPS\obj\Debug\NEWERPS.DCD.resources
+C:\Users\jeff-i7-win10\Desktop\Project folder\NEWERPS\NEWERPS\obj\Debug\NEWERPS.Destination.resources
+C:\Users\jeff-i7-win10\Desktop\Project folder\NEWERPS\NEWERPS\obj\Debug\NEWERPS.DestinationQuery.resources
+C:\Users\jeff-i7-win10\Desktop\Project folder\NEWERPS\NEWERPS\obj\Debug\NEWERPS.DevelopSecQuery.resources
+C:\Users\jeff-i7-win10\Desktop\Project folder\NEWERPS\NEWERPS\obj\Debug\NEWERPS.DevelopSection.resources
+C:\Users\jeff-i7-win10\Desktop\Project folder\NEWERPS\NEWERPS\obj\Debug\NEWERPS.Distributors.resources
+C:\Users\jeff-i7-win10\Desktop\Project folder\NEWERPS\NEWERPS\obj\Debug\NEWERPS.DistributorsQuery.resources
+C:\Users\jeff-i7-win10\Desktop\Project folder\NEWERPS\NEWERPS\obj\Debug\NEWERPS.DM.resources
+C:\Users\jeff-i7-win10\Desktop\Project folder\NEWERPS\NEWERPS\obj\Debug\NEWERPS.DMC.resources
+C:\Users\jeff-i7-win10\Desktop\Project folder\NEWERPS\NEWERPS\obj\Debug\NEWERPS.DMD.resources
+C:\Users\jeff-i7-win10\Desktop\Project folder\NEWERPS\NEWERPS\obj\Debug\NEWERPS.FactoryData2.resources
+C:\Users\jeff-i7-win10\Desktop\Project folder\NEWERPS\NEWERPS\obj\Debug\NEWERPS.FactoryQuery.resources
+C:\Users\jeff-i7-win10\Desktop\Project folder\NEWERPS\NEWERPS\obj\Debug\NEWERPS.FactoryRecover.resources
+C:\Users\jeff-i7-win10\Desktop\Project folder\NEWERPS\NEWERPS\obj\Debug\NEWERPS.ERPLogin.resources
+C:\Users\jeff-i7-win10\Desktop\Project folder\NEWERPS\NEWERPS\obj\Debug\NEWERPS.LanguageModify.resources
+C:\Users\jeff-i7-win10\Desktop\Project folder\NEWERPS\NEWERPS\obj\Debug\NEWERPS.LanguageNew.resources
+C:\Users\jeff-i7-win10\Desktop\Project folder\NEWERPS\NEWERPS\obj\Debug\NEWERPS.LanguageQuery.resources
+C:\Users\jeff-i7-win10\Desktop\Project folder\NEWERPS\NEWERPS\obj\Debug\NEWERPS.Mainpage.resources
+C:\Users\jeff-i7-win10\Desktop\Project folder\NEWERPS\NEWERPS\obj\Debug\NEWERPS.MaterialCS.resources
+C:\Users\jeff-i7-win10\Desktop\Project folder\NEWERPS\NEWERPS\obj\Debug\NEWERPS.MaterialCSD.resources
+C:\Users\jeff-i7-win10\Desktop\Project folder\NEWERPS\NEWERPS\obj\Debug\NEWERPS.MaterialProperty2.resources
+C:\Users\jeff-i7-win10\Desktop\Project folder\NEWERPS\NEWERPS\obj\Debug\NEWERPS.MMI.resources
+C:\Users\jeff-i7-win10\Desktop\Project folder\NEWERPS\NEWERPS\obj\Debug\NEWERPS.MMID.resources
+C:\Users\jeff-i7-win10\Desktop\Project folder\NEWERPS\NEWERPS\obj\Debug\NEWERPS.MMIDM.resources
+C:\Users\jeff-i7-win10\Desktop\Project folder\NEWERPS\NEWERPS\obj\Debug\NEWERPS.MMIS.resources
+C:\Users\jeff-i7-win10\Desktop\Project folder\NEWERPS\NEWERPS\obj\Debug\NEWERPS.MoldCS.resources
+C:\Users\jeff-i7-win10\Desktop\Project folder\NEWERPS\NEWERPS\obj\Debug\NEWERPS.MoldCSD.resources
+C:\Users\jeff-i7-win10\Desktop\Project folder\NEWERPS\NEWERPS\obj\Debug\NEWERPS.MS.resources
+C:\Users\jeff-i7-win10\Desktop\Project folder\NEWERPS\NEWERPS\obj\Debug\NEWERPS.MS200.resources
+C:\Users\jeff-i7-win10\Desktop\Project folder\NEWERPS\NEWERPS\obj\Debug\NEWERPS.MSD.resources
+C:\Users\jeff-i7-win10\Desktop\Project folder\NEWERPS\NEWERPS\obj\Debug\NEWERPS.MSO.resources
+C:\Users\jeff-i7-win10\Desktop\Project folder\NEWERPS\NEWERPS\obj\Debug\NEWERPS.MSOD.resources
+C:\Users\jeff-i7-win10\Desktop\Project folder\NEWERPS\NEWERPS\obj\Debug\NEWERPS.MSOIM.resources
+C:\Users\jeff-i7-win10\Desktop\Project folder\NEWERPS\NEWERPS\obj\Debug\NEWERPS.MSS.resources
+C:\Users\jeff-i7-win10\Desktop\Project folder\NEWERPS\NEWERPS\obj\Debug\NEWERPS.MSSD.resources
+C:\Users\jeff-i7-win10\Desktop\Project folder\NEWERPS\NEWERPS\obj\Debug\NEWERPS.NewClassFeature.resources
+C:\Users\jeff-i7-win10\Desktop\Project folder\NEWERPS\NEWERPS\obj\Debug\NEWERPS.NewFeature.resources
+C:\Users\jeff-i7-win10\Desktop\Project folder\NEWERPS\NEWERPS\obj\Debug\NEWERPS.OBUSelect.resources
+C:\Users\jeff-i7-win10\Desktop\Project folder\NEWERPS\NEWERPS\obj\Debug\NEWERPS.OfficialMaterial.resources
+C:\Users\jeff-i7-win10\Desktop\Project folder\NEWERPS\NEWERPS\obj\Debug\NEWERPS.OrderMain.resources
+C:\Users\jeff-i7-win10\Desktop\Project folder\NEWERPS\NEWERPS\obj\Debug\NEWERPS.OrderMom.resources
+C:\Users\jeff-i7-win10\Desktop\Project folder\NEWERPS\NEWERPS\obj\Debug\NEWERPS.OrderQuery.resources
+C:\Users\jeff-i7-win10\Desktop\Project folder\NEWERPS\NEWERPS\obj\Debug\NEWERPS.OrderShippingCopy.resources
+C:\Users\jeff-i7-win10\Desktop\Project folder\NEWERPS\NEWERPS\obj\Debug\NEWERPS.OrderShippingMark.resources
+C:\Users\jeff-i7-win10\Desktop\Project folder\NEWERPS\NEWERPS\obj\Debug\NEWERPS.OrderZlzls.resources
+C:\Users\jeff-i7-win10\Desktop\Project folder\NEWERPS\NEWERPS\obj\Debug\NEWERPS.PaymentTerm.resources
+C:\Users\jeff-i7-win10\Desktop\Project folder\NEWERPS\NEWERPS\obj\Debug\NEWERPS.PaymentTermQuery.resources
+C:\Users\jeff-i7-win10\Desktop\Project folder\NEWERPS\NEWERPS\obj\Debug\NEWERPS.PM.resources
+C:\Users\jeff-i7-win10\Desktop\Project folder\NEWERPS\NEWERPS\obj\Debug\NEWERPS.PMD.resources
+C:\Users\jeff-i7-win10\Desktop\Project folder\NEWERPS\NEWERPS\obj\Debug\NEWERPS.PMS.resources
+C:\Users\jeff-i7-win10\Desktop\Project folder\NEWERPS\NEWERPS\obj\Debug\NEWERPS.Properties.Resources.resources
+C:\Users\jeff-i7-win10\Desktop\Project folder\NEWERPS\NEWERPS\obj\Debug\NEWERPS.Property.resources
+C:\Users\jeff-i7-win10\Desktop\Project folder\NEWERPS\NEWERPS\obj\Debug\NEWERPS.PropertyDelete.resources
+C:\Users\jeff-i7-win10\Desktop\Project folder\NEWERPS\NEWERPS\obj\Debug\NEWERPS.PS.resources
+C:\Users\jeff-i7-win10\Desktop\Project folder\NEWERPS\NEWERPS\obj\Debug\NEWERPS.PSD.resources
+C:\Users\jeff-i7-win10\Desktop\Project folder\NEWERPS\NEWERPS\obj\Debug\NEWERPS.QO.resources
+C:\Users\jeff-i7-win10\Desktop\Project folder\NEWERPS\NEWERPS\obj\Debug\NEWERPS.QOC.resources
+C:\Users\jeff-i7-win10\Desktop\Project folder\NEWERPS\NEWERPS\obj\Debug\NEWERPS.QOD.resources
+C:\Users\jeff-i7-win10\Desktop\Project folder\NEWERPS\NEWERPS\obj\Debug\NEWERPS.QODSCLBH.resources
+C:\Users\jeff-i7-win10\Desktop\Project folder\NEWERPS\NEWERPS\obj\Debug\NEWERPS.QOSZSBH.resources
+C:\Users\jeff-i7-win10\Desktop\Project folder\NEWERPS\NEWERPS\obj\Debug\NEWERPS.SamConDate.resources
+C:\Users\jeff-i7-win10\Desktop\Project folder\NEWERPS\NEWERPS\obj\Debug\NEWERPS.SampleConfirm.resources
+C:\Users\jeff-i7-win10\Desktop\Project folder\NEWERPS\NEWERPS\obj\Debug\NEWERPS.SampleDate.resources
+C:\Users\jeff-i7-win10\Desktop\Project folder\NEWERPS\NEWERPS\obj\Debug\NEWERPS.SamplePrice.resources
+C:\Users\jeff-i7-win10\Desktop\Project folder\NEWERPS\NEWERPS\obj\Debug\NEWERPS.SamplePurchase2.resources
+C:\Users\jeff-i7-win10\Desktop\Project folder\NEWERPS\NEWERPS\obj\Debug\NEWERPS.SampleZsbh.resources
+C:\Users\jeff-i7-win10\Desktop\Project folder\NEWERPS\NEWERPS\obj\Debug\NEWERPS.ShoeApplication.resources
+C:\Users\jeff-i7-win10\Desktop\Project folder\NEWERPS\NEWERPS\obj\Debug\NEWERPS.ShoeAppQuery.resources
+C:\Users\jeff-i7-win10\Desktop\Project folder\NEWERPS\NEWERPS\obj\Debug\NEWERPS.SizeBlockQuery.resources
+C:\Users\jeff-i7-win10\Desktop\Project folder\NEWERPS\NEWERPS\obj\Debug\NEWERPS.SizeBlockStandard.resources
+C:\Users\jeff-i7-win10\Desktop\Project folder\NEWERPS\NEWERPS\obj\Debug\NEWERPS.SizeChart.resources
+C:\Users\jeff-i7-win10\Desktop\Project folder\NEWERPS\NEWERPS\obj\Debug\NEWERPS.SizeCountry.resources
+C:\Users\jeff-i7-win10\Desktop\Project folder\NEWERPS\NEWERPS\obj\Debug\NEWERPS.SizeCountryQuery.resources
+C:\Users\jeff-i7-win10\Desktop\Project folder\NEWERPS\NEWERPS\obj\Debug\NEWERPS.SOC.resources
+C:\Users\jeff-i7-win10\Desktop\Project folder\NEWERPS\NEWERPS\obj\Debug\NEWERPS.SOCD.resources
+C:\Users\jeff-i7-win10\Desktop\Project folder\NEWERPS\NEWERPS\obj\Debug\NEWERPS.SOSM.resources
+C:\Users\jeff-i7-win10\Desktop\Project folder\NEWERPS\NEWERPS\obj\Debug\NEWERPS.SOSMBOMBWBH.resources
+C:\Users\jeff-i7-win10\Desktop\Project folder\NEWERPS\NEWERPS\obj\Debug\NEWERPS.SOSMBOMCLBH.resources
+C:\Users\jeff-i7-win10\Desktop\Project folder\NEWERPS\NEWERPS\obj\Debug\NEWERPS.TempMaterial.resources
+C:\Users\jeff-i7-win10\Desktop\Project folder\NEWERPS\NEWERPS\obj\Debug\NEWERPS.TempQuery.resources
+C:\Users\jeff-i7-win10\Desktop\Project folder\NEWERPS\NEWERPS\obj\Debug\NEWERPS.TradeTerm.resources
+C:\Users\jeff-i7-win10\Desktop\Project folder\NEWERPS\NEWERPS\obj\Debug\NEWERPS.TradeTermQuery.resources
+C:\Users\jeff-i7-win10\Desktop\Project folder\NEWERPS\NEWERPS\obj\Debug\NEWERPS.UI.resources
+C:\Users\jeff-i7-win10\Desktop\Project folder\NEWERPS\NEWERPS\obj\Debug\NEWERPS.UID.resources
+C:\Users\jeff-i7-win10\Desktop\Project folder\NEWERPS\NEWERPS\obj\Debug\NEWERPS.VendorData.resources
+C:\Users\jeff-i7-win10\Desktop\Project folder\NEWERPS\NEWERPS\obj\Debug\NEWERPS.VendorQuery.resources
+C:\Users\jeff-i7-win10\Desktop\Project folder\NEWERPS\NEWERPS\obj\Debug\NEWERPS.csproj.GenerateResource.cache
+C:\Users\jeff-i7-win10\Desktop\Project folder\NEWERPS\NEWERPS\obj\Debug\NEWERPS.csproj.CoreCompileInputs.cache
+C:\Users\jeff-i7-win10\Desktop\Project folder\NEWERPS\NEWERPS\obj\Debug\NEWERPS.exe.manifest
+C:\Users\jeff-i7-win10\Desktop\Project folder\NEWERPS\NEWERPS\obj\Debug\NEWERPS.application
+C:\Users\jeff-i7-win10\Desktop\Project folder\NEWERPS\NEWERPS\obj\Debug\NEWERPS.csproj.CopyComplete
+C:\Users\jeff-i7-win10\Desktop\Project folder\NEWERPS\NEWERPS\obj\Debug\NEWERPS.exe
+C:\Users\jeff-i7-win10\Desktop\Project folder\NEWERPS\NEWERPS\obj\Debug\NEWERPS.pdb
+C:\Users\jeff-i7-win10\Desktop\NEWERPS\NEWERPS\bin\Debug\NEWERPS.exe.config
+C:\Users\jeff-i7-win10\Desktop\NEWERPS\NEWERPS\bin\Debug\NEWERPS.exe.manifest
+C:\Users\jeff-i7-win10\Desktop\NEWERPS\NEWERPS\bin\Debug\NEWERPS.application
+C:\Users\jeff-i7-win10\Desktop\NEWERPS\NEWERPS\bin\Debug\NEWERPS.exe
+C:\Users\jeff-i7-win10\Desktop\NEWERPS\NEWERPS\bin\Debug\NEWERPS.pdb
+C:\Users\jeff-i7-win10\Desktop\NEWERPS\NEWERPS\bin\Debug\stdole.dll
+C:\Users\jeff-i7-win10\Desktop\NEWERPS\NEWERPS\obj\Debug\NEWERPS.csprojAssemblyReference.cache
+C:\Users\jeff-i7-win10\Desktop\NEWERPS\NEWERPS\obj\Debug\NEWERPS.AdvanceOrder.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS\NEWERPS\obj\Debug\NEWERPS.BI.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS\NEWERPS\obj\Debug\NEWERPS.BomClBH.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS\NEWERPS\obj\Debug\NEWERPS.BomCopy.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS\NEWERPS\obj\Debug\NEWERPS.BomCSBH.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS\NEWERPS\obj\Debug\NEWERPS.BomInsert.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS\NEWERPS\obj\Debug\NEWERPS.BomMaintain.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CardboardData.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CardboardQuery.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CAUSE.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CauseQuery.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CBI.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CBID.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CFXTXieXing.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CFXTZL.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CFXTZLBOM.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CFXTZLBWBH.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CFXTZLCLBH.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CFXTZLCopy.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CFXTZLQuery.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CFXTZLSepPrice.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CFXTZLSize.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CFXTZLSizeInsert1.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CFXTZLSPBOM.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CFXTZLSupplier.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CFXTZXLSizeInsert2.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CGBJ.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CI.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CID.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS\NEWERPS\obj\Debug\NEWERPS.Country.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CountryQuery.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS\NEWERPS\obj\Debug\NEWERPS.Currency.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CurrencyQuery.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CustomerData.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CustomQuery.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS\NEWERPS\obj\Debug\NEWERPS.DC.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS\NEWERPS\obj\Debug\NEWERPS.DCD.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS\NEWERPS\obj\Debug\NEWERPS.Destination.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS\NEWERPS\obj\Debug\NEWERPS.DestinationQuery.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS\NEWERPS\obj\Debug\NEWERPS.DevelopSecQuery.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS\NEWERPS\obj\Debug\NEWERPS.DevelopSection.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS\NEWERPS\obj\Debug\NEWERPS.Distributors.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS\NEWERPS\obj\Debug\NEWERPS.DistributorsQuery.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS\NEWERPS\obj\Debug\NEWERPS.DM.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS\NEWERPS\obj\Debug\NEWERPS.DMC.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS\NEWERPS\obj\Debug\NEWERPS.DMD.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS\NEWERPS\obj\Debug\NEWERPS.FactoryData2.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS\NEWERPS\obj\Debug\NEWERPS.FactoryQuery.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS\NEWERPS\obj\Debug\NEWERPS.FactoryRecover.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS\NEWERPS\obj\Debug\NEWERPS.ERPLogin.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS\NEWERPS\obj\Debug\NEWERPS.LanguageModify.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS\NEWERPS\obj\Debug\NEWERPS.LanguageNew.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS\NEWERPS\obj\Debug\NEWERPS.LanguageQuery.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS\NEWERPS\obj\Debug\NEWERPS.Mainpage.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS\NEWERPS\obj\Debug\NEWERPS.Mainpage2.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS\NEWERPS\obj\Debug\NEWERPS.MaterialCS.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS\NEWERPS\obj\Debug\NEWERPS.MaterialCSD.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS\NEWERPS\obj\Debug\NEWERPS.MaterialProperty2.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS\NEWERPS\obj\Debug\NEWERPS.MMI.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS\NEWERPS\obj\Debug\NEWERPS.MMID.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS\NEWERPS\obj\Debug\NEWERPS.MMIDM.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS\NEWERPS\obj\Debug\NEWERPS.MMIDS.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS\NEWERPS\obj\Debug\NEWERPS.MMIS.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS\NEWERPS\obj\Debug\NEWERPS.MoldCS.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS\NEWERPS\obj\Debug\NEWERPS.MoldCSD.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS\NEWERPS\obj\Debug\NEWERPS.MS.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS\NEWERPS\obj\Debug\NEWERPS.MS200.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS\NEWERPS\obj\Debug\NEWERPS.MSD.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS\NEWERPS\obj\Debug\NEWERPS.MSO.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS\NEWERPS\obj\Debug\NEWERPS.MSOD.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS\NEWERPS\obj\Debug\NEWERPS.MSOIM.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS\NEWERPS\obj\Debug\NEWERPS.MSS.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS\NEWERPS\obj\Debug\NEWERPS.MSSD.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS\NEWERPS\obj\Debug\NEWERPS.NewClassFeature.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS\NEWERPS\obj\Debug\NEWERPS.NewFeature.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS\NEWERPS\obj\Debug\NEWERPS.OBUSelect.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS\NEWERPS\obj\Debug\NEWERPS.OfficialMaterial.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS\NEWERPS\obj\Debug\NEWERPS.OrderMain.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS\NEWERPS\obj\Debug\NEWERPS.OrderMom.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS\NEWERPS\obj\Debug\NEWERPS.OrderQuery.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS\NEWERPS\obj\Debug\NEWERPS.OrderShippingCopy.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS\NEWERPS\obj\Debug\NEWERPS.OrderShippingMark.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS\NEWERPS\obj\Debug\NEWERPS.OrderZlzls.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS\NEWERPS\obj\Debug\NEWERPS.PaymentTerm.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS\NEWERPS\obj\Debug\NEWERPS.PaymentTermQuery.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS\NEWERPS\obj\Debug\NEWERPS.PM.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS\NEWERPS\obj\Debug\NEWERPS.PMD.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS\NEWERPS\obj\Debug\NEWERPS.PMS.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS\NEWERPS\obj\Debug\NEWERPS.Properties.Resources.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS\NEWERPS\obj\Debug\NEWERPS.Property.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS\NEWERPS\obj\Debug\NEWERPS.PropertyDelete.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS\NEWERPS\obj\Debug\NEWERPS.PS.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS\NEWERPS\obj\Debug\NEWERPS.PSD.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS\NEWERPS\obj\Debug\NEWERPS.QO.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS\NEWERPS\obj\Debug\NEWERPS.QOC.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS\NEWERPS\obj\Debug\NEWERPS.QOD.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS\NEWERPS\obj\Debug\NEWERPS.QODSCLBH.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS\NEWERPS\obj\Debug\NEWERPS.QOSZSBH.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS\NEWERPS\obj\Debug\NEWERPS.SamConDate.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS\NEWERPS\obj\Debug\NEWERPS.SampleConfirm.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS\NEWERPS\obj\Debug\NEWERPS.SampleDate.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS\NEWERPS\obj\Debug\NEWERPS.SamplePrice.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS\NEWERPS\obj\Debug\NEWERPS.SamplePurchase2.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS\NEWERPS\obj\Debug\NEWERPS.SampleZsbh.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS\NEWERPS\obj\Debug\NEWERPS.ShoeApplication.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS\NEWERPS\obj\Debug\NEWERPS.ShoeAppQuery.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS\NEWERPS\obj\Debug\NEWERPS.SizeBlockQuery.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS\NEWERPS\obj\Debug\NEWERPS.SizeBlockStandard.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS\NEWERPS\obj\Debug\NEWERPS.SizeChart.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS\NEWERPS\obj\Debug\NEWERPS.SizeCountry.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS\NEWERPS\obj\Debug\NEWERPS.SizeCountryQuery.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS\NEWERPS\obj\Debug\NEWERPS.SOC.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS\NEWERPS\obj\Debug\NEWERPS.SOCD.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS\NEWERPS\obj\Debug\NEWERPS.SOSM.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS\NEWERPS\obj\Debug\NEWERPS.SOSMBOMBWBH.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS\NEWERPS\obj\Debug\NEWERPS.SOSMBOMCLBH.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS\NEWERPS\obj\Debug\NEWERPS.TempMaterial.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS\NEWERPS\obj\Debug\NEWERPS.TempQuery.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS\NEWERPS\obj\Debug\NEWERPS.TradeTerm.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS\NEWERPS\obj\Debug\NEWERPS.TradeTermQuery.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS\NEWERPS\obj\Debug\NEWERPS.UI.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS\NEWERPS\obj\Debug\NEWERPS.UID.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS\NEWERPS\obj\Debug\NEWERPS.VendorData.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS\NEWERPS\obj\Debug\NEWERPS.VendorQuery.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS\NEWERPS\obj\Debug\NEWERPS.csproj.GenerateResource.cache
+C:\Users\jeff-i7-win10\Desktop\NEWERPS\NEWERPS\obj\Debug\NEWERPS.csproj.CoreCompileInputs.cache
+C:\Users\jeff-i7-win10\Desktop\NEWERPS\NEWERPS\obj\Debug\NEWERPS.exe.manifest
+C:\Users\jeff-i7-win10\Desktop\NEWERPS\NEWERPS\obj\Debug\NEWERPS.application
+C:\Users\jeff-i7-win10\Desktop\NEWERPS\NEWERPS\obj\Debug\NEWERPS.csproj.CopyComplete
+C:\Users\jeff-i7-win10\Desktop\NEWERPS\NEWERPS\obj\Debug\NEWERPS.exe
+C:\Users\jeff-i7-win10\Desktop\NEWERPS\NEWERPS\obj\Debug\NEWERPS.pdb
+C:\Users\jeff-i7-win10\Desktop\NEWERPS_MDI_Form測試\NEWERPS\bin\Debug\NEWERPS.exe.config
+C:\Users\jeff-i7-win10\Desktop\NEWERPS_MDI_Form測試\NEWERPS\bin\Debug\NEWERPS.exe.manifest
+C:\Users\jeff-i7-win10\Desktop\NEWERPS_MDI_Form測試\NEWERPS\bin\Debug\NEWERPS.application
+C:\Users\jeff-i7-win10\Desktop\NEWERPS_MDI_Form測試\NEWERPS\bin\Debug\NEWERPS.exe
+C:\Users\jeff-i7-win10\Desktop\NEWERPS_MDI_Form測試\NEWERPS\bin\Debug\NEWERPS.pdb
+C:\Users\jeff-i7-win10\Desktop\NEWERPS_MDI_Form測試\NEWERPS\bin\Debug\stdole.dll
+C:\Users\jeff-i7-win10\Desktop\NEWERPS_MDI_Form測試\NEWERPS\obj\Debug\NEWERPS.csprojAssemblyReference.cache
+C:\Users\jeff-i7-win10\Desktop\NEWERPS_MDI_Form測試\NEWERPS\obj\Debug\NEWERPS.AdvanceOrder.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS_MDI_Form測試\NEWERPS\obj\Debug\NEWERPS.BI.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS_MDI_Form測試\NEWERPS\obj\Debug\NEWERPS.BomClBH.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS_MDI_Form測試\NEWERPS\obj\Debug\NEWERPS.BomCopy.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS_MDI_Form測試\NEWERPS\obj\Debug\NEWERPS.BomCSBH.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS_MDI_Form測試\NEWERPS\obj\Debug\NEWERPS.BomInsert.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS_MDI_Form測試\NEWERPS\obj\Debug\NEWERPS.BomMaintain.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS_MDI_Form測試\NEWERPS\obj\Debug\NEWERPS.CardboardData.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS_MDI_Form測試\NEWERPS\obj\Debug\NEWERPS.CardboardQuery.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS_MDI_Form測試\NEWERPS\obj\Debug\NEWERPS.CAUSE.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS_MDI_Form測試\NEWERPS\obj\Debug\NEWERPS.CauseQuery.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS_MDI_Form測試\NEWERPS\obj\Debug\NEWERPS.CBI.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS_MDI_Form測試\NEWERPS\obj\Debug\NEWERPS.CBID.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS_MDI_Form測試\NEWERPS\obj\Debug\NEWERPS.CFXTXieXing.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS_MDI_Form測試\NEWERPS\obj\Debug\NEWERPS.CFXTZL.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS_MDI_Form測試\NEWERPS\obj\Debug\NEWERPS.CFXTZLBOM.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS_MDI_Form測試\NEWERPS\obj\Debug\NEWERPS.CFXTZLBWBH.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS_MDI_Form測試\NEWERPS\obj\Debug\NEWERPS.CFXTZLCLBH.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS_MDI_Form測試\NEWERPS\obj\Debug\NEWERPS.CFXTZLCopy.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS_MDI_Form測試\NEWERPS\obj\Debug\NEWERPS.CFXTZLQuery.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS_MDI_Form測試\NEWERPS\obj\Debug\NEWERPS.CFXTZLSepPrice.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS_MDI_Form測試\NEWERPS\obj\Debug\NEWERPS.CFXTZLSize.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS_MDI_Form測試\NEWERPS\obj\Debug\NEWERPS.CFXTZLSizeInsert1.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS_MDI_Form測試\NEWERPS\obj\Debug\NEWERPS.CFXTZLSPBOM.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS_MDI_Form測試\NEWERPS\obj\Debug\NEWERPS.CFXTZLSupplier.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS_MDI_Form測試\NEWERPS\obj\Debug\NEWERPS.CFXTZXLSizeInsert2.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS_MDI_Form測試\NEWERPS\obj\Debug\NEWERPS.CGBJ.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS_MDI_Form測試\NEWERPS\obj\Debug\NEWERPS.CI.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS_MDI_Form測試\NEWERPS\obj\Debug\NEWERPS.CID.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS_MDI_Form測試\NEWERPS\obj\Debug\NEWERPS.Country.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS_MDI_Form測試\NEWERPS\obj\Debug\NEWERPS.CountryQuery.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS_MDI_Form測試\NEWERPS\obj\Debug\NEWERPS.Currency.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS_MDI_Form測試\NEWERPS\obj\Debug\NEWERPS.CurrencyQuery.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS_MDI_Form測試\NEWERPS\obj\Debug\NEWERPS.CustomerData.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS_MDI_Form測試\NEWERPS\obj\Debug\NEWERPS.CustomQuery.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS_MDI_Form測試\NEWERPS\obj\Debug\NEWERPS.DC.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS_MDI_Form測試\NEWERPS\obj\Debug\NEWERPS.DCD.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS_MDI_Form測試\NEWERPS\obj\Debug\NEWERPS.Destination.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS_MDI_Form測試\NEWERPS\obj\Debug\NEWERPS.DestinationQuery.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS_MDI_Form測試\NEWERPS\obj\Debug\NEWERPS.DevelopSecQuery.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS_MDI_Form測試\NEWERPS\obj\Debug\NEWERPS.DevelopSection.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS_MDI_Form測試\NEWERPS\obj\Debug\NEWERPS.Distributors.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS_MDI_Form測試\NEWERPS\obj\Debug\NEWERPS.DistributorsQuery.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS_MDI_Form測試\NEWERPS\obj\Debug\NEWERPS.DM.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS_MDI_Form測試\NEWERPS\obj\Debug\NEWERPS.DMC.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS_MDI_Form測試\NEWERPS\obj\Debug\NEWERPS.DMD.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS_MDI_Form測試\NEWERPS\obj\Debug\NEWERPS.FactoryData2.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS_MDI_Form測試\NEWERPS\obj\Debug\NEWERPS.FactoryQuery.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS_MDI_Form測試\NEWERPS\obj\Debug\NEWERPS.FactoryRecover.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS_MDI_Form測試\NEWERPS\obj\Debug\NEWERPS.ERPLogin.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS_MDI_Form測試\NEWERPS\obj\Debug\NEWERPS.LanguageModify.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS_MDI_Form測試\NEWERPS\obj\Debug\NEWERPS.LanguageNew.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS_MDI_Form測試\NEWERPS\obj\Debug\NEWERPS.LanguageQuery.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS_MDI_Form測試\NEWERPS\obj\Debug\NEWERPS.Mainpage.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS_MDI_Form測試\NEWERPS\obj\Debug\NEWERPS.MaterialCS.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS_MDI_Form測試\NEWERPS\obj\Debug\NEWERPS.MaterialCSD.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS_MDI_Form測試\NEWERPS\obj\Debug\NEWERPS.MaterialProperty2.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS_MDI_Form測試\NEWERPS\obj\Debug\NEWERPS.MMI.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS_MDI_Form測試\NEWERPS\obj\Debug\NEWERPS.MMID.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS_MDI_Form測試\NEWERPS\obj\Debug\NEWERPS.MMIDM.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS_MDI_Form測試\NEWERPS\obj\Debug\NEWERPS.MMIDS.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS_MDI_Form測試\NEWERPS\obj\Debug\NEWERPS.MMIS.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS_MDI_Form測試\NEWERPS\obj\Debug\NEWERPS.MoldCS.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS_MDI_Form測試\NEWERPS\obj\Debug\NEWERPS.MoldCSD.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS_MDI_Form測試\NEWERPS\obj\Debug\NEWERPS.MS.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS_MDI_Form測試\NEWERPS\obj\Debug\NEWERPS.MS200.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS_MDI_Form測試\NEWERPS\obj\Debug\NEWERPS.MSD.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS_MDI_Form測試\NEWERPS\obj\Debug\NEWERPS.MSO.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS_MDI_Form測試\NEWERPS\obj\Debug\NEWERPS.MSOD.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS_MDI_Form測試\NEWERPS\obj\Debug\NEWERPS.MSOIM.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS_MDI_Form測試\NEWERPS\obj\Debug\NEWERPS.MSS.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS_MDI_Form測試\NEWERPS\obj\Debug\NEWERPS.MSSD.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS_MDI_Form測試\NEWERPS\obj\Debug\NEWERPS.NewClassFeature.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS_MDI_Form測試\NEWERPS\obj\Debug\NEWERPS.NewFeature.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS_MDI_Form測試\NEWERPS\obj\Debug\NEWERPS.OBUSelect.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS_MDI_Form測試\NEWERPS\obj\Debug\NEWERPS.OfficialMaterial.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS_MDI_Form測試\NEWERPS\obj\Debug\NEWERPS.OrderMain.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS_MDI_Form測試\NEWERPS\obj\Debug\NEWERPS.OrderMom.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS_MDI_Form測試\NEWERPS\obj\Debug\NEWERPS.OrderQuery.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS_MDI_Form測試\NEWERPS\obj\Debug\NEWERPS.OrderShippingCopy.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS_MDI_Form測試\NEWERPS\obj\Debug\NEWERPS.OrderShippingMark.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS_MDI_Form測試\NEWERPS\obj\Debug\NEWERPS.OrderZlzls.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS_MDI_Form測試\NEWERPS\obj\Debug\NEWERPS.PaymentTerm.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS_MDI_Form測試\NEWERPS\obj\Debug\NEWERPS.PaymentTermQuery.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS_MDI_Form測試\NEWERPS\obj\Debug\NEWERPS.PM.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS_MDI_Form測試\NEWERPS\obj\Debug\NEWERPS.PMD.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS_MDI_Form測試\NEWERPS\obj\Debug\NEWERPS.PMS.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS_MDI_Form測試\NEWERPS\obj\Debug\NEWERPS.Properties.Resources.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS_MDI_Form測試\NEWERPS\obj\Debug\NEWERPS.Property.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS_MDI_Form測試\NEWERPS\obj\Debug\NEWERPS.PropertyDelete.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS_MDI_Form測試\NEWERPS\obj\Debug\NEWERPS.PS.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS_MDI_Form測試\NEWERPS\obj\Debug\NEWERPS.PSD.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS_MDI_Form測試\NEWERPS\obj\Debug\NEWERPS.QO.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS_MDI_Form測試\NEWERPS\obj\Debug\NEWERPS.QOC.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS_MDI_Form測試\NEWERPS\obj\Debug\NEWERPS.QOD.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS_MDI_Form測試\NEWERPS\obj\Debug\NEWERPS.QODSCLBH.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS_MDI_Form測試\NEWERPS\obj\Debug\NEWERPS.QOSZSBH.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS_MDI_Form測試\NEWERPS\obj\Debug\NEWERPS.SamConDate.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS_MDI_Form測試\NEWERPS\obj\Debug\NEWERPS.SampleConfirm.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS_MDI_Form測試\NEWERPS\obj\Debug\NEWERPS.SampleDate.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS_MDI_Form測試\NEWERPS\obj\Debug\NEWERPS.SamplePrice.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS_MDI_Form測試\NEWERPS\obj\Debug\NEWERPS.SamplePurchase2.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS_MDI_Form測試\NEWERPS\obj\Debug\NEWERPS.SampleZsbh.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS_MDI_Form測試\NEWERPS\obj\Debug\NEWERPS.ShoeApplication.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS_MDI_Form測試\NEWERPS\obj\Debug\NEWERPS.ShoeAppQuery.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS_MDI_Form測試\NEWERPS\obj\Debug\NEWERPS.SizeBlockQuery.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS_MDI_Form測試\NEWERPS\obj\Debug\NEWERPS.SizeBlockStandard.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS_MDI_Form測試\NEWERPS\obj\Debug\NEWERPS.SizeChart.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS_MDI_Form測試\NEWERPS\obj\Debug\NEWERPS.SizeCountry.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS_MDI_Form測試\NEWERPS\obj\Debug\NEWERPS.SizeCountryQuery.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS_MDI_Form測試\NEWERPS\obj\Debug\NEWERPS.SOC.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS_MDI_Form測試\NEWERPS\obj\Debug\NEWERPS.SOCD.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS_MDI_Form測試\NEWERPS\obj\Debug\NEWERPS.SOSM.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS_MDI_Form測試\NEWERPS\obj\Debug\NEWERPS.SOSMBOMBWBH.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS_MDI_Form測試\NEWERPS\obj\Debug\NEWERPS.SOSMBOMCLBH.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS_MDI_Form測試\NEWERPS\obj\Debug\NEWERPS.TempMaterial.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS_MDI_Form測試\NEWERPS\obj\Debug\NEWERPS.TempQuery.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS_MDI_Form測試\NEWERPS\obj\Debug\NEWERPS.TradeTerm.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS_MDI_Form測試\NEWERPS\obj\Debug\NEWERPS.TradeTermQuery.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS_MDI_Form測試\NEWERPS\obj\Debug\NEWERPS.UI.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS_MDI_Form測試\NEWERPS\obj\Debug\NEWERPS.UID.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS_MDI_Form測試\NEWERPS\obj\Debug\NEWERPS.VendorData.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS_MDI_Form測試\NEWERPS\obj\Debug\NEWERPS.VendorQuery.resources
+C:\Users\jeff-i7-win10\Desktop\NEWERPS_MDI_Form測試\NEWERPS\obj\Debug\NEWERPS.csproj.GenerateResource.cache
+C:\Users\jeff-i7-win10\Desktop\NEWERPS_MDI_Form測試\NEWERPS\obj\Debug\NEWERPS.csproj.CoreCompileInputs.cache
+C:\Users\jeff-i7-win10\Desktop\NEWERPS_MDI_Form測試\NEWERPS\obj\Debug\NEWERPS.exe.manifest
+C:\Users\jeff-i7-win10\Desktop\NEWERPS_MDI_Form測試\NEWERPS\obj\Debug\NEWERPS.application
+C:\Users\jeff-i7-win10\Desktop\NEWERPS_MDI_Form測試\NEWERPS\obj\Debug\NEWERPS.csproj.CopyComplete
+C:\Users\jeff-i7-win10\Desktop\NEWERPS_MDI_Form測試\NEWERPS\obj\Debug\NEWERPS.exe
+C:\Users\jeff-i7-win10\Desktop\NEWERPS_MDI_Form測試\NEWERPS\obj\Debug\NEWERPS.pdb
+C:\Users\jeff-i7-win10\Desktop\Project folder\NEWERPS\NEWERPS\obj\Debug\NEWERPS.OrderCarton.resources
+C:\Users\pochu\Desktop\NEWERPS20200601\NEWERPS\NEWERPS\bin\Debug\NEWERPS.exe.config
+C:\Users\pochu\Desktop\NEWERPS20200601\NEWERPS\NEWERPS\bin\Debug\NEWERPS.exe.manifest
+C:\Users\pochu\Desktop\NEWERPS20200601\NEWERPS\NEWERPS\bin\Debug\NEWERPS.application
+C:\Users\pochu\Desktop\NEWERPS20200601\NEWERPS\NEWERPS\bin\Debug\NEWERPS.exe
+C:\Users\pochu\Desktop\NEWERPS20200601\NEWERPS\NEWERPS\bin\Debug\NEWERPS.pdb
+C:\Users\pochu\Desktop\NEWERPS20200601\NEWERPS\NEWERPS\bin\Debug\stdole.dll
+C:\Users\pochu\Desktop\NEWERPS20200601\NEWERPS\NEWERPS\obj\Debug\NEWERPS.csprojAssemblyReference.cache
+C:\Users\pochu\Desktop\NEWERPS20200601\NEWERPS\NEWERPS\obj\Debug\NEWERPS.AdvanceOrder.resources
+C:\Users\pochu\Desktop\NEWERPS20200601\NEWERPS\NEWERPS\obj\Debug\NEWERPS.BatchCalculation.resources
+C:\Users\pochu\Desktop\NEWERPS20200601\NEWERPS\NEWERPS\obj\Debug\NEWERPS.BI.resources
+C:\Users\pochu\Desktop\NEWERPS20200601\NEWERPS\NEWERPS\obj\Debug\NEWERPS.BomClBH.resources
+C:\Users\pochu\Desktop\NEWERPS20200601\NEWERPS\NEWERPS\obj\Debug\NEWERPS.BomCopy.resources
+C:\Users\pochu\Desktop\NEWERPS20200601\NEWERPS\NEWERPS\obj\Debug\NEWERPS.BomCSBH.resources
+C:\Users\pochu\Desktop\NEWERPS20200601\NEWERPS\NEWERPS\obj\Debug\NEWERPS.BomInsert.resources
+C:\Users\pochu\Desktop\NEWERPS20200601\NEWERPS\NEWERPS\obj\Debug\NEWERPS.BomMaintain.resources
+C:\Users\pochu\Desktop\NEWERPS20200601\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CardboardData.resources
+C:\Users\pochu\Desktop\NEWERPS20200601\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CardboardQuery.resources
+C:\Users\pochu\Desktop\NEWERPS20200601\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CAUSE.resources
+C:\Users\pochu\Desktop\NEWERPS20200601\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CauseQuery.resources
+C:\Users\pochu\Desktop\NEWERPS20200601\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CBI.resources
+C:\Users\pochu\Desktop\NEWERPS20200601\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CBID.resources
+C:\Users\pochu\Desktop\NEWERPS20200601\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CFXTXieXing.resources
+C:\Users\pochu\Desktop\NEWERPS20200601\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CFXTZL.resources
+C:\Users\pochu\Desktop\NEWERPS20200601\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CFXTZLBOM.resources
+C:\Users\pochu\Desktop\NEWERPS20200601\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CFXTZLBWBH.resources
+C:\Users\pochu\Desktop\NEWERPS20200601\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CFXTZLCLBH.resources
+C:\Users\pochu\Desktop\NEWERPS20200601\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CFXTZLCopy.resources
+C:\Users\pochu\Desktop\NEWERPS20200601\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CFXTZLQuery.resources
+C:\Users\pochu\Desktop\NEWERPS20200601\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CFXTZLSepPrice.resources
+C:\Users\pochu\Desktop\NEWERPS20200601\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CFXTZLSize.resources
+C:\Users\pochu\Desktop\NEWERPS20200601\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CFXTZLSizeInsert1.resources
+C:\Users\pochu\Desktop\NEWERPS20200601\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CFXTZLSPBOM.resources
+C:\Users\pochu\Desktop\NEWERPS20200601\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CFXTZLSupplier.resources
+C:\Users\pochu\Desktop\NEWERPS20200601\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CFXTZXLSizeInsert2.resources
+C:\Users\pochu\Desktop\NEWERPS20200601\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CGBJ.resources
+C:\Users\pochu\Desktop\NEWERPS20200601\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CI.resources
+C:\Users\pochu\Desktop\NEWERPS20200601\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CID.resources
+C:\Users\pochu\Desktop\NEWERPS20200601\NEWERPS\NEWERPS\obj\Debug\NEWERPS.Country.resources
+C:\Users\pochu\Desktop\NEWERPS20200601\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CountryQuery.resources
+C:\Users\pochu\Desktop\NEWERPS20200601\NEWERPS\NEWERPS\obj\Debug\NEWERPS.Currency.resources
+C:\Users\pochu\Desktop\NEWERPS20200601\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CurrencyQuery.resources
+C:\Users\pochu\Desktop\NEWERPS20200601\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CustomerData.resources
+C:\Users\pochu\Desktop\NEWERPS20200601\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CustomQuery.resources
+C:\Users\pochu\Desktop\NEWERPS20200601\NEWERPS\NEWERPS\obj\Debug\NEWERPS.DC.resources
+C:\Users\pochu\Desktop\NEWERPS20200601\NEWERPS\NEWERPS\obj\Debug\NEWERPS.DCD.resources
+C:\Users\pochu\Desktop\NEWERPS20200601\NEWERPS\NEWERPS\obj\Debug\NEWERPS.Destination.resources
+C:\Users\pochu\Desktop\NEWERPS20200601\NEWERPS\NEWERPS\obj\Debug\NEWERPS.DestinationQuery.resources
+C:\Users\pochu\Desktop\NEWERPS20200601\NEWERPS\NEWERPS\obj\Debug\NEWERPS.DevelopSecQuery.resources
+C:\Users\pochu\Desktop\NEWERPS20200601\NEWERPS\NEWERPS\obj\Debug\NEWERPS.DevelopSection.resources
+C:\Users\pochu\Desktop\NEWERPS20200601\NEWERPS\NEWERPS\obj\Debug\NEWERPS.Distributors.resources
+C:\Users\pochu\Desktop\NEWERPS20200601\NEWERPS\NEWERPS\obj\Debug\NEWERPS.DistributorsQuery.resources
+C:\Users\pochu\Desktop\NEWERPS20200601\NEWERPS\NEWERPS\obj\Debug\NEWERPS.DM.resources
+C:\Users\pochu\Desktop\NEWERPS20200601\NEWERPS\NEWERPS\obj\Debug\NEWERPS.DMC.resources
+C:\Users\pochu\Desktop\NEWERPS20200601\NEWERPS\NEWERPS\obj\Debug\NEWERPS.DMD.resources
+C:\Users\pochu\Desktop\NEWERPS20200601\NEWERPS\NEWERPS\obj\Debug\NEWERPS.FactoryData2.resources
+C:\Users\pochu\Desktop\NEWERPS20200601\NEWERPS\NEWERPS\obj\Debug\NEWERPS.FactoryQuery.resources
+C:\Users\pochu\Desktop\NEWERPS20200601\NEWERPS\NEWERPS\obj\Debug\NEWERPS.FactoryRecover.resources
+C:\Users\pochu\Desktop\NEWERPS20200601\NEWERPS\NEWERPS\obj\Debug\NEWERPS.ERPLogin.resources
+C:\Users\pochu\Desktop\NEWERPS20200601\NEWERPS\NEWERPS\obj\Debug\NEWERPS.GlueDosage.resources
+C:\Users\pochu\Desktop\NEWERPS20200601\NEWERPS\NEWERPS\obj\Debug\NEWERPS.GlueInsert.resources
+C:\Users\pochu\Desktop\NEWERPS20200601\NEWERPS\NEWERPS\obj\Debug\NEWERPS.LanguageModify.resources
+C:\Users\pochu\Desktop\NEWERPS20200601\NEWERPS\NEWERPS\obj\Debug\NEWERPS.LanguageNew.resources
+C:\Users\pochu\Desktop\NEWERPS20200601\NEWERPS\NEWERPS\obj\Debug\NEWERPS.LanguageQuery.resources
+C:\Users\pochu\Desktop\NEWERPS20200601\NEWERPS\NEWERPS\obj\Debug\NEWERPS.Mainpage.resources
+C:\Users\pochu\Desktop\NEWERPS20200601\NEWERPS\NEWERPS\obj\Debug\NEWERPS.MaterialCS.resources
+C:\Users\pochu\Desktop\NEWERPS20200601\NEWERPS\NEWERPS\obj\Debug\NEWERPS.MaterialCSD.resources
+C:\Users\pochu\Desktop\NEWERPS20200601\NEWERPS\NEWERPS\obj\Debug\NEWERPS.MaterialProperty2.resources
+C:\Users\pochu\Desktop\NEWERPS20200601\NEWERPS\NEWERPS\obj\Debug\NEWERPS.MMI.resources
+C:\Users\pochu\Desktop\NEWERPS20200601\NEWERPS\NEWERPS\obj\Debug\NEWERPS.MMID.resources
+C:\Users\pochu\Desktop\NEWERPS20200601\NEWERPS\NEWERPS\obj\Debug\NEWERPS.MMIDM.resources
+C:\Users\pochu\Desktop\NEWERPS20200601\NEWERPS\NEWERPS\obj\Debug\NEWERPS.MMIS.resources
+C:\Users\pochu\Desktop\NEWERPS20200601\NEWERPS\NEWERPS\obj\Debug\NEWERPS.MoldCS.resources
+C:\Users\pochu\Desktop\NEWERPS20200601\NEWERPS\NEWERPS\obj\Debug\NEWERPS.MoldCSD.resources
+C:\Users\pochu\Desktop\NEWERPS20200601\NEWERPS\NEWERPS\obj\Debug\NEWERPS.MS.resources
+C:\Users\pochu\Desktop\NEWERPS20200601\NEWERPS\NEWERPS\obj\Debug\NEWERPS.MS200.resources
+C:\Users\pochu\Desktop\NEWERPS20200601\NEWERPS\NEWERPS\obj\Debug\NEWERPS.MSD.resources
+C:\Users\pochu\Desktop\NEWERPS20200601\NEWERPS\NEWERPS\obj\Debug\NEWERPS.MSO.resources
+C:\Users\pochu\Desktop\NEWERPS20200601\NEWERPS\NEWERPS\obj\Debug\NEWERPS.MSOD.resources
+C:\Users\pochu\Desktop\NEWERPS20200601\NEWERPS\NEWERPS\obj\Debug\NEWERPS.MSOIM.resources
+C:\Users\pochu\Desktop\NEWERPS20200601\NEWERPS\NEWERPS\obj\Debug\NEWERPS.MSS.resources
+C:\Users\pochu\Desktop\NEWERPS20200601\NEWERPS\NEWERPS\obj\Debug\NEWERPS.MSSD.resources
+C:\Users\pochu\Desktop\NEWERPS20200601\NEWERPS\NEWERPS\obj\Debug\NEWERPS.NewClassFeature.resources
+C:\Users\pochu\Desktop\NEWERPS20200601\NEWERPS\NEWERPS\obj\Debug\NEWERPS.NewFeature.resources
+C:\Users\pochu\Desktop\NEWERPS20200601\NEWERPS\NEWERPS\obj\Debug\NEWERPS.OBUSelect.resources
+C:\Users\pochu\Desktop\NEWERPS20200601\NEWERPS\NEWERPS\obj\Debug\NEWERPS.OfficialMaterial.resources
+C:\Users\pochu\Desktop\NEWERPS20200601\NEWERPS\NEWERPS\obj\Debug\NEWERPS.OrderCarton.resources
+C:\Users\pochu\Desktop\NEWERPS20200601\NEWERPS\NEWERPS\obj\Debug\NEWERPS.OrderMain.resources
+C:\Users\pochu\Desktop\NEWERPS20200601\NEWERPS\NEWERPS\obj\Debug\NEWERPS.OrderMom.resources
+C:\Users\pochu\Desktop\NEWERPS20200601\NEWERPS\NEWERPS\obj\Debug\NEWERPS.OrderQuery.resources
+C:\Users\pochu\Desktop\NEWERPS20200601\NEWERPS\NEWERPS\obj\Debug\NEWERPS.OrderShippingCopy.resources
+C:\Users\pochu\Desktop\NEWERPS20200601\NEWERPS\NEWERPS\obj\Debug\NEWERPS.OrderShippingMark.resources
+C:\Users\pochu\Desktop\NEWERPS20200601\NEWERPS\NEWERPS\obj\Debug\NEWERPS.OrderZlzls.resources
+C:\Users\pochu\Desktop\NEWERPS20200601\NEWERPS\NEWERPS\obj\Debug\NEWERPS.PaymentTerm.resources
+C:\Users\pochu\Desktop\NEWERPS20200601\NEWERPS\NEWERPS\obj\Debug\NEWERPS.PaymentTermQuery.resources
+C:\Users\pochu\Desktop\NEWERPS20200601\NEWERPS\NEWERPS\obj\Debug\NEWERPS.PM.resources
+C:\Users\pochu\Desktop\NEWERPS20200601\NEWERPS\NEWERPS\obj\Debug\NEWERPS.PMD.resources
+C:\Users\pochu\Desktop\NEWERPS20200601\NEWERPS\NEWERPS\obj\Debug\NEWERPS.PMS.resources
+C:\Users\pochu\Desktop\NEWERPS20200601\NEWERPS\NEWERPS\obj\Debug\NEWERPS.Properties.Resources.resources
+C:\Users\pochu\Desktop\NEWERPS20200601\NEWERPS\NEWERPS\obj\Debug\NEWERPS.Property.resources
+C:\Users\pochu\Desktop\NEWERPS20200601\NEWERPS\NEWERPS\obj\Debug\NEWERPS.PropertyDelete.resources
+C:\Users\pochu\Desktop\NEWERPS20200601\NEWERPS\NEWERPS\obj\Debug\NEWERPS.PS.resources
+C:\Users\pochu\Desktop\NEWERPS20200601\NEWERPS\NEWERPS\obj\Debug\NEWERPS.PSD.resources
+C:\Users\pochu\Desktop\NEWERPS20200601\NEWERPS\NEWERPS\obj\Debug\NEWERPS.QO.resources
+C:\Users\pochu\Desktop\NEWERPS20200601\NEWERPS\NEWERPS\obj\Debug\NEWERPS.QOC.resources
+C:\Users\pochu\Desktop\NEWERPS20200601\NEWERPS\NEWERPS\obj\Debug\NEWERPS.QOD.resources
+C:\Users\pochu\Desktop\NEWERPS20200601\NEWERPS\NEWERPS\obj\Debug\NEWERPS.QODSCLBH.resources
+C:\Users\pochu\Desktop\NEWERPS20200601\NEWERPS\NEWERPS\obj\Debug\NEWERPS.QOSZSBH.resources
+C:\Users\pochu\Desktop\NEWERPS20200601\NEWERPS\NEWERPS\obj\Debug\NEWERPS.SamConDate.resources
+C:\Users\pochu\Desktop\NEWERPS20200601\NEWERPS\NEWERPS\obj\Debug\NEWERPS.SampleConfirm.resources
+C:\Users\pochu\Desktop\NEWERPS20200601\NEWERPS\NEWERPS\obj\Debug\NEWERPS.SampleDate.resources
+C:\Users\pochu\Desktop\NEWERPS20200601\NEWERPS\NEWERPS\obj\Debug\NEWERPS.SamplePrice.resources
+C:\Users\pochu\Desktop\NEWERPS20200601\NEWERPS\NEWERPS\obj\Debug\NEWERPS.SamplePurchase2.resources
+C:\Users\pochu\Desktop\NEWERPS20200601\NEWERPS\NEWERPS\obj\Debug\NEWERPS.SampleZsbh.resources
+C:\Users\pochu\Desktop\NEWERPS20200601\NEWERPS\NEWERPS\obj\Debug\NEWERPS.ShoeApplication.resources
+C:\Users\pochu\Desktop\NEWERPS20200601\NEWERPS\NEWERPS\obj\Debug\NEWERPS.ShoeAppQuery.resources
+C:\Users\pochu\Desktop\NEWERPS20200601\NEWERPS\NEWERPS\obj\Debug\NEWERPS.SizeBlockQuery.resources
+C:\Users\pochu\Desktop\NEWERPS20200601\NEWERPS\NEWERPS\obj\Debug\NEWERPS.SizeBlockStandard.resources
+C:\Users\pochu\Desktop\NEWERPS20200601\NEWERPS\NEWERPS\obj\Debug\NEWERPS.SizeChart.resources
+C:\Users\pochu\Desktop\NEWERPS20200601\NEWERPS\NEWERPS\obj\Debug\NEWERPS.SizeCountry.resources
+C:\Users\pochu\Desktop\NEWERPS20200601\NEWERPS\NEWERPS\obj\Debug\NEWERPS.SizeCountryQuery.resources
+C:\Users\pochu\Desktop\NEWERPS20200601\NEWERPS\NEWERPS\obj\Debug\NEWERPS.SOC.resources
+C:\Users\pochu\Desktop\NEWERPS20200601\NEWERPS\NEWERPS\obj\Debug\NEWERPS.SOCD.resources
+C:\Users\pochu\Desktop\NEWERPS20200601\NEWERPS\NEWERPS\obj\Debug\NEWERPS.SOSM.resources
+C:\Users\pochu\Desktop\NEWERPS20200601\NEWERPS\NEWERPS\obj\Debug\NEWERPS.SOSMBOMBWBH.resources
+C:\Users\pochu\Desktop\NEWERPS20200601\NEWERPS\NEWERPS\obj\Debug\NEWERPS.SOSMBOMCLBH.resources
+C:\Users\pochu\Desktop\NEWERPS20200601\NEWERPS\NEWERPS\obj\Debug\NEWERPS.SpecialDosage.resources
+C:\Users\pochu\Desktop\NEWERPS20200601\NEWERPS\NEWERPS\obj\Debug\NEWERPS.TempMaterial.resources
+C:\Users\pochu\Desktop\NEWERPS20200601\NEWERPS\NEWERPS\obj\Debug\NEWERPS.TempQuery.resources
+C:\Users\pochu\Desktop\NEWERPS20200601\NEWERPS\NEWERPS\obj\Debug\NEWERPS.TradeTerm.resources
+C:\Users\pochu\Desktop\NEWERPS20200601\NEWERPS\NEWERPS\obj\Debug\NEWERPS.TradeTermQuery.resources
+C:\Users\pochu\Desktop\NEWERPS20200601\NEWERPS\NEWERPS\obj\Debug\NEWERPS.UI.resources
+C:\Users\pochu\Desktop\NEWERPS20200601\NEWERPS\NEWERPS\obj\Debug\NEWERPS.UID.resources
+C:\Users\pochu\Desktop\NEWERPS20200601\NEWERPS\NEWERPS\obj\Debug\NEWERPS.VendorData.resources
+C:\Users\pochu\Desktop\NEWERPS20200601\NEWERPS\NEWERPS\obj\Debug\NEWERPS.VendorQuery.resources
+C:\Users\pochu\Desktop\NEWERPS20200601\NEWERPS\NEWERPS\obj\Debug\NEWERPS.csproj.GenerateResource.cache
+C:\Users\pochu\Desktop\NEWERPS20200601\NEWERPS\NEWERPS\obj\Debug\NEWERPS.exe.manifest
+C:\Users\pochu\Desktop\NEWERPS20200601\NEWERPS\NEWERPS\obj\Debug\NEWERPS.application
+C:\Users\pochu\Desktop\NEWERPS20200601\NEWERPS\NEWERPS\obj\Debug\NEWERPS.csproj.CopyComplete
+C:\Users\pochu\Desktop\NEWERPS20200601\NEWERPS\NEWERPS\obj\Debug\NEWERPS.exe
+C:\Users\pochu\Desktop\NEWERPS20200601\NEWERPS\NEWERPS\obj\Debug\NEWERPS.pdb
+C:\Users\pochu\Desktop\NEWERPS20200601\NEWERPS\NEWERPS\obj\Debug\NEWERPS.OrdChange.resources
+C:\Users\pochu\Desktop\NEWERPS20200601\NEWERPS\NEWERPS\obj\Debug\NEWERPS.OrderSep.resources
+C:\Users\pochu\Desktop\NEWERPS20200601\NEWERPS\NEWERPS\obj\Debug\NEWERPS.SpeCLBH.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\bin\Debug\NEWERPS.exe.config
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\bin\Debug\NEWERPS.exe.manifest
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\bin\Debug\NEWERPS.application
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\bin\Debug\NEWERPS.exe
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\bin\Debug\NEWERPS.pdb
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\bin\Debug\stdole.dll
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.csprojAssemblyReference.cache
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.AdvanceOrder.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.BatchCalculation.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.BI.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.BomClBH.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.BomCopy.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.BomCSBH.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.BomInsert.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.BomMaintain.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CardboardData.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CardboardQuery.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CAUSE.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CauseQuery.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CBI.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CBID.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CFXTXieXing.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CFXTZL.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CFXTZLBOM.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CFXTZLBWBH.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CFXTZLCLBH.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CFXTZLCopy.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CFXTZLQuery.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CFXTZLSepPrice.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CFXTZLSize.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CFXTZLSizeInsert1.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CFXTZLSPBOM.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CFXTZLSupplier.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CFXTZXLSizeInsert2.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CGBJ.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CI.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CID.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.Country.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CountryQuery.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.Currency.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CurrencyQuery.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CustomerData.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CustomQuery.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.DC.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.DCD.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.Destination.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.DestinationQuery.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.DevelopSecQuery.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.DevelopSection.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.Distributors.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.DistributorsQuery.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.DM.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.DMC.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.DMD.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.FactoryData2.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.FactoryQuery.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.FactoryRecover.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.ERPLogin.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.GlueDosage.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.GlueInsert.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.LanguageModify.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.LanguageNew.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.LanguageQuery.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.Mainpage.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.MaterialCS.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.MaterialCSD.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.MaterialProperty2.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.MMI.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.MMID.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.MMIDM.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.MMIS.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.MoldCS.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.MoldCSD.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.MS.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.MS200.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.MSD.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.MSO.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.MSOD.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.MSOIM.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.MSS.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.MSSD.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.NewClassFeature.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.NewFeature.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.OBUSelect.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.OfficialMaterial.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.OrdChange.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.OrderCarton.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.OrderMain.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.OrderMom.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.OrderQuery.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.OrderSep.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.OrderShippingCopy.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.OrderShippingMark.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.OrderZlzls.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.PaymentTerm.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.PaymentTermQuery.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.PM.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.PMD.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.PMS.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.Properties.Resources.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.Property.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.PropertyDelete.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.PS.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.PSD.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.QO.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.QOC.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.QOD.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.QODSCLBH.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.QOSZSBH.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.SamConDate.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.SampleConfirm.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.SampleDate.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.SamplePrice.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.SamplePurchase2.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.SampleZsbh.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.ShoeApplication.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.ShoeAppQuery.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.SizeBlockQuery.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.SizeBlockStandard.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.SizeChart.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.SizeCountry.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.SizeCountryQuery.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.SOC.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.SOCD.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.SOSM.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.SOSMBOMBWBH.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.SOSMBOMCLBH.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.SpecialDosage.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.SpeCLBH.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.TempMaterial.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.TempQuery.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.TradeTerm.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.TradeTermQuery.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.UI.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.UID.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.VendorData.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.VendorQuery.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.csproj.GenerateResource.cache
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.exe.manifest
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.application
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.csproj.CopyComplete
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.exe
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.pdb
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\NEWERPS\bin\Debug\NEWERPS.exe.config
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\NEWERPS\bin\Debug\NEWERPS.exe.manifest
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\NEWERPS\bin\Debug\NEWERPS.application
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\NEWERPS\bin\Debug\NEWERPS.exe
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\NEWERPS\bin\Debug\NEWERPS.pdb
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\NEWERPS\bin\Debug\stdole.dll
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.AdvanceOrder.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.BatchCalculation.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.BI.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.BomClBH.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.BomCopy.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.BomCSBH.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.BomInsert.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.BomMaintain.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CardboardData.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CardboardQuery.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CAUSE.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CauseQuery.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CBI.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CBID.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CFXTXieXing.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CFXTZL.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CFXTZLBOM.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CFXTZLBWBH.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CFXTZLCLBH.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CFXTZLCopy.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CFXTZLQuery.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CFXTZLSepPrice.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CFXTZLSize.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CFXTZLSizeInsert1.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CFXTZLSPBOM.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CFXTZLSupplier.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CFXTZXLSizeInsert2.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CGBJ.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CI.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CID.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.Country.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CountryQuery.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.Currency.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CurrencyQuery.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CustomerData.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CustomQuery.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.DC.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.DCD.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.Destination.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.DestinationQuery.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.DevelopSecQuery.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.DevelopSection.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.Distributors.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.DistributorsQuery.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.DM.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.DMC.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.DMD.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.FactoryData2.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.FactoryQuery.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.FactoryRecover.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.ERPLogin.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.GlueDosage.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.GlueInsert.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.LanguageModify.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.LanguageNew.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.LanguageQuery.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.Mainpage.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.MaterialCS.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.MaterialCSD.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.MaterialProperty2.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.MMI.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.MMID.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.MMIDM.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.MMIS.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.MoldCS.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.MoldCSD.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.MS.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.MS200.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.MSD.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.MSO.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.MSOD.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.MSOIM.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.MSS.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.MSSD.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.NewClassFeature.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.NewFeature.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.OBUSelect.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.OfficialMaterial.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.OrdChange.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.OrderCarton.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.OrderMain.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.OrderMom.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.OrderQuery.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.OrderSep.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.OrderShippingCopy.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.OrderShippingMark.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.OrderZlzls.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.PaymentTerm.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.PaymentTermQuery.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.PM.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.PMD.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.PMS.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.Properties.Resources.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.Property.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.PropertyDelete.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.PS.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.PSD.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.QO.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.QOC.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.QOD.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.QODSCLBH.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.QOSZSBH.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.SamConDate.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.SampleConfirm.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.SampleDate.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.SamplePrice.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.SamplePurchase2.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.SampleZsbh.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.ShoeApplication.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.ShoeAppQuery.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.SizeBlockQuery.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.SizeBlockStandard.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.SizeChart.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.SizeCountry.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.SizeCountryQuery.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.SOC.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.SOCD.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.SOSM.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.SOSMBOMBWBH.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.SOSMBOMCLBH.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.SpecialDosage.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.SpeCLBH.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.TempMaterial.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.TempQuery.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.TradeTerm.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.TradeTermQuery.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.UI.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.UID.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.VendorData.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.VendorQuery.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.csproj.GenerateResource.cache
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.exe.manifest
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.application
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.csproj.CopyComplete
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.exe
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.pdb
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\NEWERPS\obj\Debug\RdlCompile.cache
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\NEWERPS\obj\Debug\RdlCompile.compiled
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.SpecialGlue.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.OrderSizeRun.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CFXTZLSPBOMCOPY.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.InputDDBH.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\NEWERPS\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\NEWERPS\bin\Debug\ExcelDataReader.dll
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\NEWERPS\bin\Debug\ExcelDataReader.pdb
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\NEWERPS\bin\Debug\ExcelDataReader.xml
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\NEWERPS\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\NEWERPS\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.csprojAssemblyReference.cache
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\NEWERPS\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.InputBom.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.OrderSizeInsert.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CFXTZLCSBH.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CFXTZLPartInsert.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.BomCheck.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CFXTZLSCCheck.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NEWERPS\NEWERPS\obj\Debug\NEWERPS.CFXTZLSizeCopy.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\LYSHOE\NEWERPS\bin\Debug\NEWERPS.exe.config
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\LYSHOE\NEWERPS\bin\Debug\NEWERPS.exe.manifest
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\LYSHOE\NEWERPS\bin\Debug\NEWERPS.application
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\LYSHOE\NEWERPS\bin\Debug\NEWERPS.exe
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\LYSHOE\NEWERPS\bin\Debug\NEWERPS.pdb
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\LYSHOE\NEWERPS\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\LYSHOE\NEWERPS\bin\Debug\ExcelDataReader.dll
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\LYSHOE\NEWERPS\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\LYSHOE\NEWERPS\bin\Debug\stdole.dll
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\LYSHOE\NEWERPS\bin\Debug\ExcelDataReader.pdb
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\LYSHOE\NEWERPS\bin\Debug\ExcelDataReader.xml
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\LYSHOE\NEWERPS\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\LYSHOE\NEWERPS\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\LYSHOE\NEWERPS\obj\Debug\NEWERPS.csprojAssemblyReference.cache
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\LYSHOE\NEWERPS\obj\Debug\NEWERPS.AdvanceOrder.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\LYSHOE\NEWERPS\obj\Debug\NEWERPS.BatchCalculation.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\LYSHOE\NEWERPS\obj\Debug\NEWERPS.BI.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\LYSHOE\NEWERPS\obj\Debug\NEWERPS.BomCheck.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\LYSHOE\NEWERPS\obj\Debug\NEWERPS.BomClBH.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\LYSHOE\NEWERPS\obj\Debug\NEWERPS.BomCopy.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\LYSHOE\NEWERPS\obj\Debug\NEWERPS.BomCSBH.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\LYSHOE\NEWERPS\obj\Debug\NEWERPS.BomInsert.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\LYSHOE\NEWERPS\obj\Debug\NEWERPS.BomMaintain.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\LYSHOE\NEWERPS\obj\Debug\NEWERPS.CardboardData.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\LYSHOE\NEWERPS\obj\Debug\NEWERPS.CardboardQuery.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\LYSHOE\NEWERPS\obj\Debug\NEWERPS.CAUSE.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\LYSHOE\NEWERPS\obj\Debug\NEWERPS.CauseQuery.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\LYSHOE\NEWERPS\obj\Debug\NEWERPS.CBI.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\LYSHOE\NEWERPS\obj\Debug\NEWERPS.CBID.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\LYSHOE\NEWERPS\obj\Debug\NEWERPS.CFXTXieXing.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\LYSHOE\NEWERPS\obj\Debug\NEWERPS.CFXTZL.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\LYSHOE\NEWERPS\obj\Debug\NEWERPS.CFXTZLBOM.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\LYSHOE\NEWERPS\obj\Debug\NEWERPS.CFXTZLBWBH.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\LYSHOE\NEWERPS\obj\Debug\NEWERPS.CFXTZLCLBH.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\LYSHOE\NEWERPS\obj\Debug\NEWERPS.CFXTZLCopy.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\LYSHOE\NEWERPS\obj\Debug\NEWERPS.CFXTZLCSBH.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\LYSHOE\NEWERPS\obj\Debug\NEWERPS.CFXTZLPartInsert.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\LYSHOE\NEWERPS\obj\Debug\NEWERPS.CFXTZLQuery.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\LYSHOE\NEWERPS\obj\Debug\NEWERPS.CFXTZLSCCheck.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\LYSHOE\NEWERPS\obj\Debug\NEWERPS.CFXTZLSepPrice.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\LYSHOE\NEWERPS\obj\Debug\NEWERPS.CFXTZLSize.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\LYSHOE\NEWERPS\obj\Debug\NEWERPS.CFXTZLSizeCopy.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\LYSHOE\NEWERPS\obj\Debug\NEWERPS.CFXTZLSizeInsert1.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\LYSHOE\NEWERPS\obj\Debug\NEWERPS.CFXTZLSPBOM.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\LYSHOE\NEWERPS\obj\Debug\NEWERPS.CFXTZLSPBOMCOPY.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\LYSHOE\NEWERPS\obj\Debug\NEWERPS.CFXTZLSupplier.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\LYSHOE\NEWERPS\obj\Debug\NEWERPS.CFXTZXLSizeInsert2.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\LYSHOE\NEWERPS\obj\Debug\NEWERPS.CGBJ.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\LYSHOE\NEWERPS\obj\Debug\NEWERPS.CI.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\LYSHOE\NEWERPS\obj\Debug\NEWERPS.CID.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\LYSHOE\NEWERPS\obj\Debug\NEWERPS.Country.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\LYSHOE\NEWERPS\obj\Debug\NEWERPS.CountryQuery.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\LYSHOE\NEWERPS\obj\Debug\NEWERPS.Currency.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\LYSHOE\NEWERPS\obj\Debug\NEWERPS.CurrencyQuery.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\LYSHOE\NEWERPS\obj\Debug\NEWERPS.CustomerData.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\LYSHOE\NEWERPS\obj\Debug\NEWERPS.CustomQuery.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\LYSHOE\NEWERPS\obj\Debug\NEWERPS.DC.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\LYSHOE\NEWERPS\obj\Debug\NEWERPS.DCD.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\LYSHOE\NEWERPS\obj\Debug\NEWERPS.Destination.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\LYSHOE\NEWERPS\obj\Debug\NEWERPS.DestinationQuery.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\LYSHOE\NEWERPS\obj\Debug\NEWERPS.DevelopSecQuery.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\LYSHOE\NEWERPS\obj\Debug\NEWERPS.DevelopSection.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\LYSHOE\NEWERPS\obj\Debug\NEWERPS.Distributors.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\LYSHOE\NEWERPS\obj\Debug\NEWERPS.DistributorsQuery.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\LYSHOE\NEWERPS\obj\Debug\NEWERPS.DM.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\LYSHOE\NEWERPS\obj\Debug\NEWERPS.DMC.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\LYSHOE\NEWERPS\obj\Debug\NEWERPS.DMD.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\LYSHOE\NEWERPS\obj\Debug\NEWERPS.FactoryData2.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\LYSHOE\NEWERPS\obj\Debug\NEWERPS.FactoryQuery.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\LYSHOE\NEWERPS\obj\Debug\NEWERPS.FactoryRecover.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\LYSHOE\NEWERPS\obj\Debug\NEWERPS.ERPLogin.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\LYSHOE\NEWERPS\obj\Debug\NEWERPS.GlueDosage.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\LYSHOE\NEWERPS\obj\Debug\NEWERPS.GlueInsert.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\LYSHOE\NEWERPS\obj\Debug\NEWERPS.InputBom.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\LYSHOE\NEWERPS\obj\Debug\NEWERPS.InputDDBH.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\LYSHOE\NEWERPS\obj\Debug\NEWERPS.LanguageModify.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\LYSHOE\NEWERPS\obj\Debug\NEWERPS.LanguageNew.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\LYSHOE\NEWERPS\obj\Debug\NEWERPS.LanguageQuery.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\LYSHOE\NEWERPS\obj\Debug\NEWERPS.Mainpage.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\LYSHOE\NEWERPS\obj\Debug\NEWERPS.MaterialCS.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\LYSHOE\NEWERPS\obj\Debug\NEWERPS.MaterialCSD.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\LYSHOE\NEWERPS\obj\Debug\NEWERPS.MaterialProperty2.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\LYSHOE\NEWERPS\obj\Debug\NEWERPS.MMI.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\LYSHOE\NEWERPS\obj\Debug\NEWERPS.MMID.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\LYSHOE\NEWERPS\obj\Debug\NEWERPS.MMIDM.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\LYSHOE\NEWERPS\obj\Debug\NEWERPS.MMIS.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\LYSHOE\NEWERPS\obj\Debug\NEWERPS.MoldCS.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\LYSHOE\NEWERPS\obj\Debug\NEWERPS.MoldCSD.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\LYSHOE\NEWERPS\obj\Debug\NEWERPS.MS.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\LYSHOE\NEWERPS\obj\Debug\NEWERPS.MS200.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\LYSHOE\NEWERPS\obj\Debug\NEWERPS.MSD.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\LYSHOE\NEWERPS\obj\Debug\NEWERPS.MSO.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\LYSHOE\NEWERPS\obj\Debug\NEWERPS.MSOD.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\LYSHOE\NEWERPS\obj\Debug\NEWERPS.MSOIM.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\LYSHOE\NEWERPS\obj\Debug\NEWERPS.MSS.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\LYSHOE\NEWERPS\obj\Debug\NEWERPS.MSSD.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\LYSHOE\NEWERPS\obj\Debug\NEWERPS.NewClassFeature.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\LYSHOE\NEWERPS\obj\Debug\NEWERPS.NewFeature.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\LYSHOE\NEWERPS\obj\Debug\NEWERPS.OBUSelect.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\LYSHOE\NEWERPS\obj\Debug\NEWERPS.OfficialMaterial.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\LYSHOE\NEWERPS\obj\Debug\NEWERPS.OrdChange.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\LYSHOE\NEWERPS\obj\Debug\NEWERPS.OrderCarton.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\LYSHOE\NEWERPS\obj\Debug\NEWERPS.OrderMain.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\LYSHOE\NEWERPS\obj\Debug\NEWERPS.OrderMom.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\LYSHOE\NEWERPS\obj\Debug\NEWERPS.OrderQuery.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\LYSHOE\NEWERPS\obj\Debug\NEWERPS.OrderSep.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\LYSHOE\NEWERPS\obj\Debug\NEWERPS.OrderShippingCopy.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\LYSHOE\NEWERPS\obj\Debug\NEWERPS.OrderShippingMark.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\LYSHOE\NEWERPS\obj\Debug\NEWERPS.OrderSizeInsert.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\LYSHOE\NEWERPS\obj\Debug\NEWERPS.OrderSizeRun.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\LYSHOE\NEWERPS\obj\Debug\NEWERPS.OrderZlzls.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\LYSHOE\NEWERPS\obj\Debug\NEWERPS.PaymentTerm.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\LYSHOE\NEWERPS\obj\Debug\NEWERPS.PaymentTermQuery.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\LYSHOE\NEWERPS\obj\Debug\NEWERPS.PM.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\LYSHOE\NEWERPS\obj\Debug\NEWERPS.PMD.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\LYSHOE\NEWERPS\obj\Debug\NEWERPS.PMS.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\LYSHOE\NEWERPS\obj\Debug\NEWERPS.Properties.Resources.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\LYSHOE\NEWERPS\obj\Debug\NEWERPS.Property.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\LYSHOE\NEWERPS\obj\Debug\NEWERPS.PropertyDelete.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\LYSHOE\NEWERPS\obj\Debug\NEWERPS.PS.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\LYSHOE\NEWERPS\obj\Debug\NEWERPS.PSD.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\LYSHOE\NEWERPS\obj\Debug\NEWERPS.QO.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\LYSHOE\NEWERPS\obj\Debug\NEWERPS.QOC.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\LYSHOE\NEWERPS\obj\Debug\NEWERPS.QOD.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\LYSHOE\NEWERPS\obj\Debug\NEWERPS.QODSCLBH.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\LYSHOE\NEWERPS\obj\Debug\NEWERPS.QOSZSBH.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\LYSHOE\NEWERPS\obj\Debug\NEWERPS.SamConDate.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\LYSHOE\NEWERPS\obj\Debug\NEWERPS.SampleConfirm.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\LYSHOE\NEWERPS\obj\Debug\NEWERPS.SampleDate.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\LYSHOE\NEWERPS\obj\Debug\NEWERPS.SamplePrice.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\LYSHOE\NEWERPS\obj\Debug\NEWERPS.SamplePurchase2.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\LYSHOE\NEWERPS\obj\Debug\NEWERPS.SampleZsbh.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\LYSHOE\NEWERPS\obj\Debug\NEWERPS.ShoeApplication.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\LYSHOE\NEWERPS\obj\Debug\NEWERPS.ShoeAppQuery.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\LYSHOE\NEWERPS\obj\Debug\NEWERPS.SizeBlockQuery.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\LYSHOE\NEWERPS\obj\Debug\NEWERPS.SizeBlockStandard.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\LYSHOE\NEWERPS\obj\Debug\NEWERPS.SizeChart.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\LYSHOE\NEWERPS\obj\Debug\NEWERPS.SizeCountry.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\LYSHOE\NEWERPS\obj\Debug\NEWERPS.SizeCountryQuery.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\LYSHOE\NEWERPS\obj\Debug\NEWERPS.SOC.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\LYSHOE\NEWERPS\obj\Debug\NEWERPS.SOCD.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\LYSHOE\NEWERPS\obj\Debug\NEWERPS.SOSM.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\LYSHOE\NEWERPS\obj\Debug\NEWERPS.SOSMBOMBWBH.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\LYSHOE\NEWERPS\obj\Debug\NEWERPS.SOSMBOMCLBH.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\LYSHOE\NEWERPS\obj\Debug\NEWERPS.SpecialDosage.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\LYSHOE\NEWERPS\obj\Debug\NEWERPS.SpecialGlue.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\LYSHOE\NEWERPS\obj\Debug\NEWERPS.SpeCLBH.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\LYSHOE\NEWERPS\obj\Debug\NEWERPS.TempMaterial.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\LYSHOE\NEWERPS\obj\Debug\NEWERPS.TempQuery.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\LYSHOE\NEWERPS\obj\Debug\NEWERPS.TradeTerm.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\LYSHOE\NEWERPS\obj\Debug\NEWERPS.TradeTermQuery.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\LYSHOE\NEWERPS\obj\Debug\NEWERPS.UI.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\LYSHOE\NEWERPS\obj\Debug\NEWERPS.UID.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\LYSHOE\NEWERPS\obj\Debug\NEWERPS.VendorData.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\LYSHOE\NEWERPS\obj\Debug\NEWERPS.VendorQuery.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\LYSHOE\NEWERPS\obj\Debug\NEWERPS.csproj.GenerateResource.cache
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\LYSHOE\NEWERPS\obj\Debug\RdlCompile.cache
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\LYSHOE\NEWERPS\obj\Debug\RdlCompile.compiled
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\LYSHOE\NEWERPS\obj\Debug\NEWERPS.exe.manifest
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\LYSHOE\NEWERPS\obj\Debug\NEWERPS.application
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\LYSHOE\NEWERPS\obj\Debug\NEWERPS.csproj.CopyComplete
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\LYSHOE\NEWERPS\obj\Debug\NEWERPS.exe
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\LYSHOE\NEWERPS\obj\Debug\NEWERPS.pdb
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\LYSHOE\NEWERPS\obj\Debug\NEWERPS.OrderBom.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\LYSHOE\NEWERPS\obj\Debug\NEWERPS.CFXTZLSPArticle.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\LYSHOE\NEWERPS\obj\Debug\NEWERPS.PurchaseMerge.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\LYSHOE\NEWERPS\obj\Debug\NEWERPS.SIZETEST.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\LYSHOE\NEWERPS\obj\Debug\NEWERPS.OrderDiff.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES\LYSHOE\NEWERPS\bin\Debug\NEWERPS.exe.config
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES\LYSHOE\NEWERPS\bin\Debug\NEWERPS.exe.manifest
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES\LYSHOE\NEWERPS\bin\Debug\NEWERPS.application
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES\LYSHOE\NEWERPS\bin\Debug\NEWERPS.exe
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES\LYSHOE\NEWERPS\bin\Debug\NEWERPS.pdb
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES\LYSHOE\NEWERPS\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES\LYSHOE\NEWERPS\bin\Debug\ExcelDataReader.dll
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES\LYSHOE\NEWERPS\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES\LYSHOE\NEWERPS\bin\Debug\stdole.dll
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES\LYSHOE\NEWERPS\bin\Debug\ExcelDataReader.pdb
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES\LYSHOE\NEWERPS\bin\Debug\ExcelDataReader.xml
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES\LYSHOE\NEWERPS\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES\LYSHOE\NEWERPS\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.csprojAssemblyReference.cache
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.AdvanceOrder.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.BatchCalculation.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.BI.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.BomCheck.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.BomClBH.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.BomCopy.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.BomCSBH.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.BomInsert.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.BomMaintain.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.CardboardData.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.CardboardQuery.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.CAUSE.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.CauseQuery.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.CBI.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.CBID.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.CFXTXieXing.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.CFXTZL.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.CFXTZLBOM.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.CFXTZLBWBH.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.CFXTZLCLBH.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.CFXTZLCopy.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.CFXTZLCSBH.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.CFXTZLPartInsert.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.CFXTZLQuery.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.CFXTZLSCCheck.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.CFXTZLSepPrice.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.CFXTZLSize.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.CFXTZLSizeCopy.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.CFXTZLSizeInsert1.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.CFXTZLSPArticle.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.CFXTZLSPBOM.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.CFXTZLSPBOMCOPY.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.CFXTZLSupplier.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.CFXTZXLSizeInsert2.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.CGBJ.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.CI.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.CID.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.Country.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.CountryQuery.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.Currency.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.CurrencyQuery.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.CustomerData.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.CustomQuery.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.DC.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.DCD.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.Destination.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.DestinationQuery.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.DevelopSecQuery.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.DevelopSection.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.Distributors.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.DistributorsQuery.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.DM.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.DMC.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.DMD.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.FactoryData2.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.FactoryQuery.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.FactoryRecover.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.ERPLogin.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.GlueDosage.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.GlueInsert.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.InputBom.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.InputDDBH.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.LanguageModify.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.LanguageNew.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.LanguageQuery.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.Mainpage.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.MaterialCS.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.MaterialCSD.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.MaterialProperty2.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.MMI.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.MMID.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.MMIDM.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.MMIS.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.MoldCS.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.MoldCSD.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.MS.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.MS200.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.MSD.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.MSO.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.MSOD.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.MSOIM.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.MSS.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.MSSD.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.NewClassFeature.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.NewFeature.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.OBUSelect.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.OfficialMaterial.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.OrdChange.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.OrderBom.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.OrderCarton.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.OrderDiff.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.OrderMain.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.OrderMom.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.OrderQuery.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.OrderSep.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.OrderShippingCopy.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.OrderShippingMark.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.OrderSizeInsert.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.OrderSizeRun.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.OrderZlzls.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.PaymentTerm.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.PaymentTermQuery.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.PM.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.PMD.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.PMS.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.Properties.Resources.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.Property.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.PropertyDelete.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.PS.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.PSD.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.PurchaseMerge.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.QO.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.QOC.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.QOD.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.QODSCLBH.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.QOSZSBH.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.SamConDate.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.SampleConfirm.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.SampleDate.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.SamplePrice.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.SamplePurchase2.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.SampleZsbh.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.ShoeApplication.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.ShoeAppQuery.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.SizeBlockQuery.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.SizeBlockStandard.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.SizeChart.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.SizeCountry.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.SizeCountryQuery.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.SIZETEST.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.SOC.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.SOCD.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.SOSM.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.SOSMBOMBWBH.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.SOSMBOMCLBH.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.SpecialDosage.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.SpecialGlue.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.SpeCLBH.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.TempMaterial.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.TempQuery.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.TradeTerm.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.TradeTermQuery.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.UI.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.UID.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.VendorData.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.VendorQuery.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.csproj.GenerateResource.cache
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES\LYSHOE\NEWERPS\obj\Debug\RdlCompile.cache
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES\LYSHOE\NEWERPS\obj\Debug\RdlCompile.compiled
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.exe.manifest
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.application
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.csproj.CopyComplete
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.exe
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.pdb
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.OrderVer.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.OrderArticle.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES FORM\LYSHOE\NEWERPS\bin\Debug\NEWERPS.exe.config
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES FORM\LYSHOE\NEWERPS\bin\Debug\NEWERPS.exe.manifest
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES FORM\LYSHOE\NEWERPS\bin\Debug\NEWERPS.application
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES FORM\LYSHOE\NEWERPS\bin\Debug\NEWERPS.exe
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES FORM\LYSHOE\NEWERPS\bin\Debug\NEWERPS.pdb
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES FORM\LYSHOE\NEWERPS\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES FORM\LYSHOE\NEWERPS\bin\Debug\ExcelDataReader.dll
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES FORM\LYSHOE\NEWERPS\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES FORM\LYSHOE\NEWERPS\bin\Debug\stdole.dll
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES FORM\LYSHOE\NEWERPS\bin\Debug\ExcelDataReader.pdb
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES FORM\LYSHOE\NEWERPS\bin\Debug\ExcelDataReader.xml
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES FORM\LYSHOE\NEWERPS\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES FORM\LYSHOE\NEWERPS\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES FORM\LYSHOE\NEWERPS\obj\Debug\NEWERPS.csprojAssemblyReference.cache
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES FORM\LYSHOE\NEWERPS\obj\Debug\NEWERPS.AdvanceOrder.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES FORM\LYSHOE\NEWERPS\obj\Debug\NEWERPS.BatchCalculation.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES FORM\LYSHOE\NEWERPS\obj\Debug\NEWERPS.BI.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES FORM\LYSHOE\NEWERPS\obj\Debug\NEWERPS.BomCheck.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES FORM\LYSHOE\NEWERPS\obj\Debug\NEWERPS.BomClBH.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES FORM\LYSHOE\NEWERPS\obj\Debug\NEWERPS.BomCopy.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES FORM\LYSHOE\NEWERPS\obj\Debug\NEWERPS.BomCSBH.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES FORM\LYSHOE\NEWERPS\obj\Debug\NEWERPS.BomInsert.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES FORM\LYSHOE\NEWERPS\obj\Debug\NEWERPS.BomMaintain.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES FORM\LYSHOE\NEWERPS\obj\Debug\NEWERPS.CardboardData.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES FORM\LYSHOE\NEWERPS\obj\Debug\NEWERPS.CardboardQuery.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES FORM\LYSHOE\NEWERPS\obj\Debug\NEWERPS.CAUSE.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES FORM\LYSHOE\NEWERPS\obj\Debug\NEWERPS.CauseQuery.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES FORM\LYSHOE\NEWERPS\obj\Debug\NEWERPS.CBI.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES FORM\LYSHOE\NEWERPS\obj\Debug\NEWERPS.CBID.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES FORM\LYSHOE\NEWERPS\obj\Debug\NEWERPS.CFXTXieXing.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES FORM\LYSHOE\NEWERPS\obj\Debug\NEWERPS.CFXTZL.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES FORM\LYSHOE\NEWERPS\obj\Debug\NEWERPS.CFXTZLBOM.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES FORM\LYSHOE\NEWERPS\obj\Debug\NEWERPS.CFXTZLBWBH.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES FORM\LYSHOE\NEWERPS\obj\Debug\NEWERPS.CFXTZLCLBH.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES FORM\LYSHOE\NEWERPS\obj\Debug\NEWERPS.CFXTZLCopy.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES FORM\LYSHOE\NEWERPS\obj\Debug\NEWERPS.CFXTZLCSBH.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES FORM\LYSHOE\NEWERPS\obj\Debug\NEWERPS.CFXTZLPartInsert.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES FORM\LYSHOE\NEWERPS\obj\Debug\NEWERPS.CFXTZLQuery.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES FORM\LYSHOE\NEWERPS\obj\Debug\NEWERPS.CFXTZLSCCheck.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES FORM\LYSHOE\NEWERPS\obj\Debug\NEWERPS.CFXTZLSepPrice.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES FORM\LYSHOE\NEWERPS\obj\Debug\NEWERPS.CFXTZLSize.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES FORM\LYSHOE\NEWERPS\obj\Debug\NEWERPS.CFXTZLSizeCopy.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES FORM\LYSHOE\NEWERPS\obj\Debug\NEWERPS.CFXTZLSizeInsert1.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES FORM\LYSHOE\NEWERPS\obj\Debug\NEWERPS.CFXTZLSPArticle.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES FORM\LYSHOE\NEWERPS\obj\Debug\NEWERPS.CFXTZLSPBOM.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES FORM\LYSHOE\NEWERPS\obj\Debug\NEWERPS.CFXTZLSPBOMCOPY.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES FORM\LYSHOE\NEWERPS\obj\Debug\NEWERPS.CFXTZLSupplier.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES FORM\LYSHOE\NEWERPS\obj\Debug\NEWERPS.CFXTZXLSizeInsert2.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES FORM\LYSHOE\NEWERPS\obj\Debug\NEWERPS.CGBJ.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES FORM\LYSHOE\NEWERPS\obj\Debug\NEWERPS.CI.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES FORM\LYSHOE\NEWERPS\obj\Debug\NEWERPS.CID.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES FORM\LYSHOE\NEWERPS\obj\Debug\NEWERPS.Country.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES FORM\LYSHOE\NEWERPS\obj\Debug\NEWERPS.CountryQuery.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES FORM\LYSHOE\NEWERPS\obj\Debug\NEWERPS.Currency.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES FORM\LYSHOE\NEWERPS\obj\Debug\NEWERPS.CurrencyQuery.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES FORM\LYSHOE\NEWERPS\obj\Debug\NEWERPS.CustomerData.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES FORM\LYSHOE\NEWERPS\obj\Debug\NEWERPS.CustomQuery.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES FORM\LYSHOE\NEWERPS\obj\Debug\NEWERPS.DC.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES FORM\LYSHOE\NEWERPS\obj\Debug\NEWERPS.DCD.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES FORM\LYSHOE\NEWERPS\obj\Debug\NEWERPS.Destination.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES FORM\LYSHOE\NEWERPS\obj\Debug\NEWERPS.DestinationQuery.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES FORM\LYSHOE\NEWERPS\obj\Debug\NEWERPS.DevelopSecQuery.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES FORM\LYSHOE\NEWERPS\obj\Debug\NEWERPS.DevelopSection.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES FORM\LYSHOE\NEWERPS\obj\Debug\NEWERPS.Distributors.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES FORM\LYSHOE\NEWERPS\obj\Debug\NEWERPS.DistributorsQuery.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES FORM\LYSHOE\NEWERPS\obj\Debug\NEWERPS.DM.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES FORM\LYSHOE\NEWERPS\obj\Debug\NEWERPS.DMC.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES FORM\LYSHOE\NEWERPS\obj\Debug\NEWERPS.DMD.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES FORM\LYSHOE\NEWERPS\obj\Debug\NEWERPS.FactoryData2.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES FORM\LYSHOE\NEWERPS\obj\Debug\NEWERPS.FactoryQuery.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES FORM\LYSHOE\NEWERPS\obj\Debug\NEWERPS.FactoryRecover.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES FORM\LYSHOE\NEWERPS\obj\Debug\NEWERPS.ERPLogin.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES FORM\LYSHOE\NEWERPS\obj\Debug\NEWERPS.GlueDosage.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES FORM\LYSHOE\NEWERPS\obj\Debug\NEWERPS.GlueInsert.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES FORM\LYSHOE\NEWERPS\obj\Debug\NEWERPS.InputBom.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES FORM\LYSHOE\NEWERPS\obj\Debug\NEWERPS.InputDDBH.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES FORM\LYSHOE\NEWERPS\obj\Debug\NEWERPS.LanguageModify.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES FORM\LYSHOE\NEWERPS\obj\Debug\NEWERPS.LanguageNew.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES FORM\LYSHOE\NEWERPS\obj\Debug\NEWERPS.LanguageQuery.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES FORM\LYSHOE\NEWERPS\obj\Debug\NEWERPS.Mainpage.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES FORM\LYSHOE\NEWERPS\obj\Debug\NEWERPS.MaterialCS.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES FORM\LYSHOE\NEWERPS\obj\Debug\NEWERPS.MaterialCSD.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES FORM\LYSHOE\NEWERPS\obj\Debug\NEWERPS.MaterialProperty2.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES FORM\LYSHOE\NEWERPS\obj\Debug\NEWERPS.MMI.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES FORM\LYSHOE\NEWERPS\obj\Debug\NEWERPS.MMID.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES FORM\LYSHOE\NEWERPS\obj\Debug\NEWERPS.MMIDM.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES FORM\LYSHOE\NEWERPS\obj\Debug\NEWERPS.MMIS.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES FORM\LYSHOE\NEWERPS\obj\Debug\NEWERPS.MoldCS.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES FORM\LYSHOE\NEWERPS\obj\Debug\NEWERPS.MoldCSD.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES FORM\LYSHOE\NEWERPS\obj\Debug\NEWERPS.MS.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES FORM\LYSHOE\NEWERPS\obj\Debug\NEWERPS.MS200.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES FORM\LYSHOE\NEWERPS\obj\Debug\NEWERPS.MSD.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES FORM\LYSHOE\NEWERPS\obj\Debug\NEWERPS.MSO.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES FORM\LYSHOE\NEWERPS\obj\Debug\NEWERPS.MSOD.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES FORM\LYSHOE\NEWERPS\obj\Debug\NEWERPS.MSOIM.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES FORM\LYSHOE\NEWERPS\obj\Debug\NEWERPS.MSS.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES FORM\LYSHOE\NEWERPS\obj\Debug\NEWERPS.MSSD.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES FORM\LYSHOE\NEWERPS\obj\Debug\NEWERPS.NewClassFeature.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES FORM\LYSHOE\NEWERPS\obj\Debug\NEWERPS.NewFeature.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES FORM\LYSHOE\NEWERPS\obj\Debug\NEWERPS.OBUSelect.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES FORM\LYSHOE\NEWERPS\obj\Debug\NEWERPS.OfficialMaterial.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES FORM\LYSHOE\NEWERPS\obj\Debug\NEWERPS.OrdChange.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES FORM\LYSHOE\NEWERPS\obj\Debug\NEWERPS.OrderArticle.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES FORM\LYSHOE\NEWERPS\obj\Debug\NEWERPS.OrderBom.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES FORM\LYSHOE\NEWERPS\obj\Debug\NEWERPS.OrderCarton.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES FORM\LYSHOE\NEWERPS\obj\Debug\NEWERPS.OrderDiff.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES FORM\LYSHOE\NEWERPS\obj\Debug\NEWERPS.OrderMain.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES FORM\LYSHOE\NEWERPS\obj\Debug\NEWERPS.OrderMom.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES FORM\LYSHOE\NEWERPS\obj\Debug\NEWERPS.OrderQuery.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES FORM\LYSHOE\NEWERPS\obj\Debug\NEWERPS.OrderSep.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES FORM\LYSHOE\NEWERPS\obj\Debug\NEWERPS.OrderShippingCopy.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES FORM\LYSHOE\NEWERPS\obj\Debug\NEWERPS.OrderShippingMark.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES FORM\LYSHOE\NEWERPS\obj\Debug\NEWERPS.OrderSizeInsert.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES FORM\LYSHOE\NEWERPS\obj\Debug\NEWERPS.OrderSizeRun.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES FORM\LYSHOE\NEWERPS\obj\Debug\NEWERPS.OrderVer.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES FORM\LYSHOE\NEWERPS\obj\Debug\NEWERPS.OrderZlzls.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES FORM\LYSHOE\NEWERPS\obj\Debug\NEWERPS.PaymentTerm.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES FORM\LYSHOE\NEWERPS\obj\Debug\NEWERPS.PaymentTermQuery.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES FORM\LYSHOE\NEWERPS\obj\Debug\NEWERPS.PM.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES FORM\LYSHOE\NEWERPS\obj\Debug\NEWERPS.PMD.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES FORM\LYSHOE\NEWERPS\obj\Debug\NEWERPS.PMS.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES FORM\LYSHOE\NEWERPS\obj\Debug\NEWERPS.Properties.Resources.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES FORM\LYSHOE\NEWERPS\obj\Debug\NEWERPS.Property.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES FORM\LYSHOE\NEWERPS\obj\Debug\NEWERPS.PropertyDelete.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES FORM\LYSHOE\NEWERPS\obj\Debug\NEWERPS.PS.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES FORM\LYSHOE\NEWERPS\obj\Debug\NEWERPS.PSD.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES FORM\LYSHOE\NEWERPS\obj\Debug\NEWERPS.PurchaseMerge.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES FORM\LYSHOE\NEWERPS\obj\Debug\NEWERPS.QO.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES FORM\LYSHOE\NEWERPS\obj\Debug\NEWERPS.QOC.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES FORM\LYSHOE\NEWERPS\obj\Debug\NEWERPS.QOD.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES FORM\LYSHOE\NEWERPS\obj\Debug\NEWERPS.QODSCLBH.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES FORM\LYSHOE\NEWERPS\obj\Debug\NEWERPS.QOSZSBH.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES FORM\LYSHOE\NEWERPS\obj\Debug\NEWERPS.SamConDate.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES FORM\LYSHOE\NEWERPS\obj\Debug\NEWERPS.SampleConfirm.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES FORM\LYSHOE\NEWERPS\obj\Debug\NEWERPS.SampleDate.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES FORM\LYSHOE\NEWERPS\obj\Debug\NEWERPS.SamplePrice.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES FORM\LYSHOE\NEWERPS\obj\Debug\NEWERPS.SamplePurchase2.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES FORM\LYSHOE\NEWERPS\obj\Debug\NEWERPS.SampleZsbh.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES FORM\LYSHOE\NEWERPS\obj\Debug\NEWERPS.ShoeApplication.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES FORM\LYSHOE\NEWERPS\obj\Debug\NEWERPS.ShoeAppQuery.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES FORM\LYSHOE\NEWERPS\obj\Debug\NEWERPS.SizeBlockQuery.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES FORM\LYSHOE\NEWERPS\obj\Debug\NEWERPS.SizeBlockStandard.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES FORM\LYSHOE\NEWERPS\obj\Debug\NEWERPS.SizeChart.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES FORM\LYSHOE\NEWERPS\obj\Debug\NEWERPS.SizeCountry.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES FORM\LYSHOE\NEWERPS\obj\Debug\NEWERPS.SizeCountryQuery.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES FORM\LYSHOE\NEWERPS\obj\Debug\NEWERPS.SIZETEST.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES FORM\LYSHOE\NEWERPS\obj\Debug\NEWERPS.SOC.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES FORM\LYSHOE\NEWERPS\obj\Debug\NEWERPS.SOCD.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES FORM\LYSHOE\NEWERPS\obj\Debug\NEWERPS.SOSM.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES FORM\LYSHOE\NEWERPS\obj\Debug\NEWERPS.SOSMBOMBWBH.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES FORM\LYSHOE\NEWERPS\obj\Debug\NEWERPS.SOSMBOMCLBH.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES FORM\LYSHOE\NEWERPS\obj\Debug\NEWERPS.SpecialDosage.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES FORM\LYSHOE\NEWERPS\obj\Debug\NEWERPS.SpecialGlue.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES FORM\LYSHOE\NEWERPS\obj\Debug\NEWERPS.SpeCLBH.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES FORM\LYSHOE\NEWERPS\obj\Debug\NEWERPS.TempMaterial.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES FORM\LYSHOE\NEWERPS\obj\Debug\NEWERPS.TempQuery.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES FORM\LYSHOE\NEWERPS\obj\Debug\NEWERPS.TradeTerm.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES FORM\LYSHOE\NEWERPS\obj\Debug\NEWERPS.TradeTermQuery.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES FORM\LYSHOE\NEWERPS\obj\Debug\NEWERPS.UI.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES FORM\LYSHOE\NEWERPS\obj\Debug\NEWERPS.UID.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES FORM\LYSHOE\NEWERPS\obj\Debug\NEWERPS.VendorData.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES FORM\LYSHOE\NEWERPS\obj\Debug\NEWERPS.VendorQuery.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES FORM\LYSHOE\NEWERPS\obj\Debug\NEWERPS.csproj.GenerateResource.cache
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES FORM\LYSHOE\NEWERPS\obj\Debug\RdlCompile.cache
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES FORM\LYSHOE\NEWERPS\obj\Debug\RdlCompile.compiled
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES FORM\LYSHOE\NEWERPS\obj\Debug\NEWERPS.exe.manifest
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES FORM\LYSHOE\NEWERPS\obj\Debug\NEWERPS.application
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES FORM\LYSHOE\NEWERPS\obj\Debug\NEWERPS.csproj.CopyComplete
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES FORM\LYSHOE\NEWERPS\obj\Debug\NEWERPS.exe
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\SALES FORM\LYSHOE\NEWERPS\obj\Debug\NEWERPS.pdb
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NSALES\LYSHOE\NEWERPS\bin\Debug\NEWERPS.exe.config
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NSALES\LYSHOE\NEWERPS\bin\Debug\NEWERPS.exe.manifest
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NSALES\LYSHOE\NEWERPS\bin\Debug\NEWERPS.application
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NSALES\LYSHOE\NEWERPS\bin\Debug\NEWERPS.exe
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NSALES\LYSHOE\NEWERPS\bin\Debug\NEWERPS.pdb
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NSALES\LYSHOE\NEWERPS\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NSALES\LYSHOE\NEWERPS\bin\Debug\ExcelDataReader.dll
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NSALES\LYSHOE\NEWERPS\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NSALES\LYSHOE\NEWERPS\bin\Debug\stdole.dll
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NSALES\LYSHOE\NEWERPS\bin\Debug\ExcelDataReader.pdb
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NSALES\LYSHOE\NEWERPS\bin\Debug\ExcelDataReader.xml
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NSALES\LYSHOE\NEWERPS\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NSALES\LYSHOE\NEWERPS\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NSALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.csprojAssemblyReference.cache
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NSALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.AdvanceOrder.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NSALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.BatchCalculation.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NSALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.BI.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NSALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.BomCheck.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NSALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.BomClBH.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NSALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.BomCopy.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NSALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.BomCSBH.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NSALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.BomInsert.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NSALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.BomMaintain.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NSALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.CardboardData.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NSALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.CardboardQuery.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NSALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.CAUSE.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NSALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.CauseQuery.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NSALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.CBI.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NSALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.CBID.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NSALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.CFXTXieXing.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NSALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.CFXTZL.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NSALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.CFXTZLBOM.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NSALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.CFXTZLBWBH.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NSALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.CFXTZLCLBH.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NSALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.CFXTZLCopy.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NSALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.CFXTZLCSBH.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NSALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.CFXTZLPartInsert.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NSALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.CFXTZLQuery.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NSALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.CFXTZLSCCheck.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NSALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.CFXTZLSepPrice.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NSALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.CFXTZLSize.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NSALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.CFXTZLSizeCopy.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NSALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.CFXTZLSizeInsert1.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NSALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.CFXTZLSPArticle.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NSALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.CFXTZLSPBOM.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NSALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.CFXTZLSPBOMCOPY.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NSALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.CFXTZLSupplier.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NSALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.CFXTZXLSizeInsert2.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NSALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.CGBJ.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NSALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.CI.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NSALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.CID.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NSALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.Country.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NSALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.CountryQuery.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NSALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.Currency.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NSALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.CurrencyQuery.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NSALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.CustomerData.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NSALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.CustomQuery.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NSALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.DC.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NSALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.DCD.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NSALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.Destination.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NSALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.DestinationQuery.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NSALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.DevelopSecQuery.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NSALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.DevelopSection.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NSALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.Distributors.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NSALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.DistributorsQuery.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NSALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.DM.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NSALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.DMC.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NSALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.DMD.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NSALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.FactoryData2.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NSALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.FactoryQuery.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NSALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.FactoryRecover.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NSALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.ERPLogin.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NSALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.GlueDosage.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NSALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.GlueInsert.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NSALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.InputBom.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NSALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.InputDDBH.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NSALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.LanguageModify.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NSALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.LanguageNew.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NSALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.LanguageQuery.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NSALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.Mainpage.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NSALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.MaterialCS.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NSALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.MaterialCSD.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NSALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.MaterialProperty2.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NSALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.MMI.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NSALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.MMID.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NSALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.MMIDM.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NSALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.MMIS.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NSALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.MoldCS.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NSALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.MoldCSD.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NSALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.MS.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NSALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.MS200.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NSALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.MSD.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NSALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.MSO.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NSALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.MSOD.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NSALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.MSOIM.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NSALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.MSS.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NSALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.MSSD.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NSALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.NewClassFeature.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NSALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.NewFeature.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NSALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.OBUSelect.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NSALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.OfficialMaterial.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NSALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.OrdChange.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NSALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.OrderArticle.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NSALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.OrderBom.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NSALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.OrderCarton.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NSALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.OrderDiff.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NSALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.OrderMain.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NSALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.OrderMom.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NSALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.OrderQuery.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NSALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.OrderSep.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NSALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.OrderShippingCopy.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NSALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.OrderShippingMark.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NSALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.OrderSizeInsert.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NSALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.OrderSizeRun.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NSALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.OrderVer.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NSALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.OrderZlzls.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NSALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.PaymentTerm.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NSALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.PaymentTermQuery.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NSALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.PM.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NSALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.PMD.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NSALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.PMS.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NSALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.Properties.Resources.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NSALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.Property.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NSALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.PropertyDelete.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NSALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.PS.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NSALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.PSD.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NSALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.PurchaseMerge.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NSALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.QO.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NSALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.QOC.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NSALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.QOD.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NSALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.QODSCLBH.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NSALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.QOSZSBH.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NSALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.SamConDate.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NSALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.SampleConfirm.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NSALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.SampleDate.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NSALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.SamplePrice.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NSALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.SamplePurchase2.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NSALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.SampleZsbh.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NSALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.ShoeApplication.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NSALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.ShoeAppQuery.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NSALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.SizeBlockQuery.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NSALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.SizeBlockStandard.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NSALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.SizeChart.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NSALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.SizeCountry.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NSALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.SizeCountryQuery.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NSALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.SIZETEST.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NSALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.SOC.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NSALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.SOCD.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NSALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.SOSM.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NSALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.SOSMBOMBWBH.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NSALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.SOSMBOMCLBH.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NSALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.SpecialDosage.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NSALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.SpecialGlue.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NSALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.SpeCLBH.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NSALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.TempMaterial.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NSALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.TempQuery.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NSALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.TradeTerm.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NSALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.TradeTermQuery.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NSALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.UI.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NSALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.UID.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NSALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.VendorData.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NSALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.VendorQuery.resources
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NSALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.csproj.GenerateResource.cache
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NSALES\LYSHOE\NEWERPS\obj\Debug\RdlCompile.cache
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NSALES\LYSHOE\NEWERPS\obj\Debug\RdlCompile.compiled
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NSALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.exe.manifest
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NSALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.application
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NSALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.csproj.CopyComplete
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NSALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.exe
+C:\Users\pochu\Desktop\NEWERPS\NEWERPS\NSALES\LYSHOE\NEWERPS\obj\Debug\NEWERPS.pdb
